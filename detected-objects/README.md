@@ -15,12 +15,12 @@ I recognized that tables are a well trained class since a lot of things lay on t
 So how much does it take to be a table?
 
 The YOLO table is a cover in the shape of a table to cover objects to appear like a table for example the Mercedes table.
-![a](img/table-1.jpg)  
+![a](../img/table-1.jpg)  
 
-![b](img/table-2.jpg)  
+![b](../img/table-2.jpg)  
 quick sketch of the cover
 
-![c](img/table-3.jpg)
+![c](../img/table-3.jpg)
 first tests (failing horribly but also funny)
 it seems that color aswell as context of an object are an important factors.
 
