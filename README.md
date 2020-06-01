@@ -6,7 +6,7 @@ Exploring design strategies &amp; tools in a colaborative ping-pong between Arti
 AI as a technology is already happening, it is mostly subtle so we don't realize it like the perfect google search and our weekly spotify recommendation. While it influences our world (big words 😉) or at least how we consume, our design techniques still keep untouched. 
 
 How does it feel to design for or with an AI?  
-is it annoying or fun? 
+is it annoying or fun?  
 could including AI in a creative process lead to new perspectives on design?
 
 The following respository is an ongoing collection of design experiments in collaboration with artificial intelligence. 
