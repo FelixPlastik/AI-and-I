@@ -9,7 +9,6 @@ Exploring design strategies &amp; tools in a colaborative ping-pong between Arti
 - [ ] can it be fun or super annoying?  
 - [ ] could including AI in a creative process lead to new perspectives on design?
 
-<br>
 
 The following respository is an ongoing collection of design experiments in collaboration with artificial intelligence  
 (I have to mention i don't see AI as intelligent but as a tool).  
