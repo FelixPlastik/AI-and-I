@@ -18,11 +18,6 @@ The mode always changes which means sometimes the AI is the designer, sometimes 
 <br>  
 *If you want to join, please feel free to add your experiment in a **pull request** or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
 
-
-
-<br>
-<br>
-
 ## detected objects
 <img src="img/real-apple-png.png" width="40%">  
 
