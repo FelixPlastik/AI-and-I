@@ -10,7 +10,9 @@ Artificial Intelligence (AI) is totally hyped theme and a big technology that is
 - [ ] could including AI in a creative process lead to new perspectives on design?
 
 <br>
-The following respository is an ongoing collection of design experiments in collaboration with artificial intelligence (I have to mention i don't see AI as intelligent but as a tool). 
+
+The following respository is an ongoing collection of design experiments in collaboration with artificial intelligence  
+(I have to mention i don't see AI as intelligent but as a tool). 
 The mode always changes which means sometimes the AI is the designer, sometimes it is me. Sometimes it is me against AI and sometimes AI has to approve my design. There are no limits. If you want to join, please feel free to add your experiment in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)
 
 
