@@ -12,9 +12,9 @@ All things are split into categories, classes and sub-classes.
 I recognized that tables are a well trained class since a lot of things lay on tables and its basically in a lot of indoor sceneries.
 So how much does it take to actually assume a table? 
 
-![ ](img/table-1.jpg)
-![ ](img/table-2.jpg)
-![ ](img/table-3.jpg)
+![a](img/table-1.jpg)
+![b](img/table-2.jpg)
+![c](img/table-3.jpg)
 
 
 To get into the image-recognition-world, I started with a smartphone app (there are some available for both, mac and android) 
