@@ -8,14 +8,20 @@ Here some pics of image recognition to bring you in the mood:
 ![](https://pyimagesearch.com/wp-content/uploads/2018/11/yolo_dl4cv.jpg)  
 ![](img/table-1.jpg)
 
+
+### 1. YOLO table (YOLO = you look only once)
 All things are split into categories, classes and sub-classes.  
 I recognized that tables are a well trained class since a lot of things lay on tables and its basically in a lot of indoor sceneries.
-So how much does it take to actually assume a table? 
+So how much does it take to be a table?
 
+The YOLO table is a cover in the shape of a table to cover objects to appear like a table for example the Mercedes table.
 ![a](img/table-1.jpg)  
+
 ![b](img/table-2.jpg)  
+quick sketch of the cover
+
 ![c](img/table-3.jpg)
+first tests (failing horribly but also funny)
+it seems that color aswell as context of an object are an important factors.
 
-
-To get into the image-recognition-world, I started with a smartphone app (there are some available for both, mac and android) 
-The 
+See here the final YOLO table with some proof-of-design pictures:
