@@ -40,8 +40,11 @@ See here the final YOLO table with some proof-of-design pictures:
 
 <br>
 <br>  
+
 ### 2. 2D-3D cups  
+
 <br>
 <br>  
+
 ### 3. hair curtain 
 
