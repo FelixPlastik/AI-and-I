@@ -28,13 +28,11 @@ Objects detection AI is one of the major uses in machine learning since it is wa
 
 ## 101 best poster
 text 
-
 <br>
 <br>
 
 ## next
 text
-
 <br>
 <br>
 
