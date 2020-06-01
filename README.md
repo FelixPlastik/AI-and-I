@@ -3,7 +3,7 @@ Exploring design strategies &amp; tools in a colaborative ping-pong between Arti
 
 ![ai and i](img/robot-metal-hand.jpg)
 
-*Artificial Intelligence (AI)* or *machine learning* is totally hyped theme and a big technology that is already in use. It is subtle so mostly we don't realize it like the *perfect google search* and our *weekly spotify recommendation*. While AI influences our world (big words 😉) or at least how we consume, our techniques to design remain untouched and creativity is called a safe haven for jobs which can not be replaced by AI. 
+*Artificial Intelligence (AI)* or *machine learning* is a totally hyped theme but a technology that is already in use and will be used more and more in the future. It is mostly subtle so we don't realize it like – perfect google searches or weekly spotify recommendations. While AI influences our world (big words 😉) or at least how we consume, our techniques to design remain untouched and creativity is called a safe haven for jobs which can not be replaced by AI. 
 
 - [ ] But how does it feel to design for or with an AI? 
 - [ ] can it be fun or super annoying?  
