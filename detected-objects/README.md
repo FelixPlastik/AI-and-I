@@ -25,4 +25,9 @@ quick sketch of the cover
 first tests (failing horribly but also funny)
 it seems that color aswell as context of an object are an important factors.
 
+<br>
+<br>
+
 See here the final YOLO table with some proof-of-design pictures:
+
+***in production***
