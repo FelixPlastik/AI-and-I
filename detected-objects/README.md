@@ -12,8 +12,7 @@ Here some pics of image recognition to bring you in the mood:
 ### 1. YOLO table 
 (YOLO = you look only once, refers to the object detection AI called 'YOLO'. Because it looks only once on an object the detection works in realtime with 30fps.)  
 <br>
-All things are split into categories, classes and sub-classes.  
-I recognized that tables are a well trained class since a lot of things lay on tables and its basically in a lot of indoor sceneries.  
+All things are split into categories, classes and sub-classes. I recognized that tables are a well trained class since a lot of things lay on tables and its basically in a lot of indoor sceneries.  
 So how much does it take to be a table?
 <br>
 <br>
