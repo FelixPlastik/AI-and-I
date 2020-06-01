@@ -6,16 +6,17 @@ Sometimes this works incredibely good, but often it doesn't. My experiment start
 
 Here some pics of image recognition to bring you in the mood:
 ![](https://pyimagesearch.com/wp-content/uploads/2018/11/yolo_dl4cv.jpg)  
-![](img/table-1.jpg)
+![](https://pjreddie.com/media/image/Screen_Shot_2016-09-07_at_10.56.09_PM.png)
 
 
 ### 1. YOLO table (YOLO = you look only once)
 All things are split into categories, classes and sub-classes.  
-I recognized that tables are a well trained class since a lot of things lay on tables and its basically in a lot of indoor sceneries.
+I recognized that tables are a well trained class since a lot of things lay on tables and its basically in a lot of indoor sceneries.  
 So how much does it take to be a table?
 
-The YOLO table is a cover in the shape of a table to cover objects to appear like a table for example the Mercedes table.
 ![a](../img/table-1.jpg)  
+The YOLO table is a cover in the shape of a table to cover objects to appear like a table  
+(for example a Mercedes table)  
 
 ![b](../img/table-2.jpg)  
 quick sketch of the cover
