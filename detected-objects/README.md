@@ -37,3 +37,11 @@ it seems that color aswell as context of an object are important factors.
 See here the final YOLO table with some proof-of-design pictures:
 
 ***in production***
+
+<br>
+<br>
+### 2. 2D-3D cups  
+<br>
+<br>
+### 3. hair curtain 
+
