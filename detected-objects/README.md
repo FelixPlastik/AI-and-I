@@ -13,14 +13,14 @@ Here some pics of image recognition to bring you in the mood:
 All things are split into categories, classes and sub-classes.  
 I recognized that tables are a well trained class since a lot of things lay on tables and its basically in a lot of indoor sceneries.  
 So how much does it take to be a table?
-
+<br>
 ![a](../img/table-1.jpg)  
 The YOLO table is a cover in the shape of a table to cover objects to appear like a table  
 (for example a Mercedes table)  
-
+<br>
 ![b](../img/table-2.jpg)  
 quick sketch of the cover
-
+<br>
 ![c](../img/table-3.jpg)
 first tests (failing horribly but also funny)
 it seems that color aswell as context of an object are an important factors.
