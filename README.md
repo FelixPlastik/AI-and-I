@@ -4,6 +4,5 @@ Exploring strategies &amp; tools for design in a colaborative ping-pong between 
 ![ai and i](img/robot-metal-hand.jpg)
 
 
-# [detected objects](detected-objects/README.md)  
-objects detection is one of the biggest usages in machine learning since the analyisation of images outperforms the human eye more accurate and way faster.
-This leads to....
+## detected objects
+Objects detection AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. In this experiment, I used an object recognition AI which is capable to recognize all kinds of objects to design a series of objects that play with AI's recognizability and invisibility of things and its faults. [**read more...**](detected-objects/README.md)  
