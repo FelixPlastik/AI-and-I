@@ -4,7 +4,8 @@ Object detection (or object/image recognition) is a quite popular AI usage. It t
 The use cases reach from surveillance cameras to monitor people to selfdriving cars that recognize cats on the street.  
 Sometimes this works incredibely good, but often it doesn't. My experiment started with the search for the faults, in betweens and blind spots.
 
-Here some pics of image recognition to bring you in the mood:
+Here some pics of image recognition to bring you in the mood:  
+
 ![](https://pyimagesearch.com/wp-content/uploads/2018/11/yolo_dl4cv.jpg)  
 ![](https://pjreddie.com/media/image/Screen_Shot_2016-09-07_at_10.56.09_PM.png)
 
@@ -27,8 +28,9 @@ quick sketch of the cover
 <br>
 ![c](../img/table-3.jpg)
 first tests (failing horribly but also funny)
-it seems that color aswell as context of an object are an important factors.
+it seems that color aswell as context of an object are important factors.
 
+<br>
 <br>
 <br>
 
