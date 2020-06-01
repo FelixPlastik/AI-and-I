@@ -9,6 +9,7 @@ AI as a technology is already happening, it is mostly subtle so we don't realize
 - [ ] can it be fun or super annoying?  
 - [ ] could including AI in a creative process lead to new perspectives on design?
 
+<br>
 The following respository is an ongoing collection of design experiments in collaboration with artificial intelligence. 
 The mode always changes which means sometimes the AI is the designer, sometimes it is me. Sometimes it is me against AI and sometimes AI has to approve my design. There are no limits. If you want to join, please feel free to add your experiment in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)
 
