@@ -1,8 +1,10 @@
 # AI-and-I
-## Exploring design strategies &amp; tools in a colaborative ping-pong between Artificial Intelligence and Me as a designer.
+Exploring design strategies &amp; tools in a colaborative ping-pong between Artificial Intelligence and Me as a designer.
 
 ![ai and i](img/robot-metal-hand.jpg)
 
+<br>
+<br>
 
 ## detected objects
 <img src="img/real-apple-png.png" width="40%">  
