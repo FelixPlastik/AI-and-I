@@ -39,9 +39,9 @@ See here the final YOLO table with some proof-of-design pictures:
 ***in production***
 
 <br>
-<br>
+<br>  
 ### 2. 2D-3D cups  
 <br>
-<br>
+<br>  
 ### 3. hair curtain 
 
