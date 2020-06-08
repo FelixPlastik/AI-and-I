@@ -8,19 +8,18 @@
 
 The technology is already here, It is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences our world (big words 😉) or at least how we consume, our techniques to design remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI.
   
-`how does it feel to design for or with an AI?`
-`how does AI as a creative partner change my perspective on design?` 
-`and what new design strategies arise from it?`
+- [ ] `how does it feel to design for or with an AI?`
+- [ ] `how does AI as a creative partner change my perspective on design?` 
+- [ ] `and what new design strategies arise from it?`
 
-
-The following respository is an ongoing collection of design experiments in collaboration with artificial intelligence  
-(I have to mention i don't see AI as intelligent but as a tool).  
-The mode always changes which means sometimes the AI is the designer, sometimes it is me. Sometimes it is me against AI and sometimes AI has to approve my design..There are no limits!  
+The following respository is an ongoing collection of design experiments in collaboration with artificial intelligence.  
+The mode always changes, which means sometimes the AI is the designer, sometimes it is me.  
+Sometimes it is me against AI and sometimes AI has to approve my design..There are no limits!  
 <br>
 <br>  
-*If you want to join, please feel free to add your experiment in a **pull request** or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
+*If you want to join, please feel free to add your experiment in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
 
-## detected objects
+## detected is half designed
 <img src="img/real-apple-png.png" width="40%">  
 
 Objects detection AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. In this experiment, I used an object recognition AI which is capable to recognize all kinds of objects to design a series of objects that play with AI's recognizability and invisibility of things and its faults. [**read more**](detected-objects/README.md)  
@@ -28,12 +27,14 @@ Objects detection AI is one of the major uses in machine learning since it is wa
 <br>
 <br>
 
-## 101 best poster
-text 
+## 101-best-poster
+
+Each year the ["100-best-posters from Germany, Austria and Switzerland"](http://100-beste-plakate.de/)-contest asks for the best poster designs. Often I don't have a poster, but if you don't have a poster you can't win.  
+So I built a poster-bot to design only winning posters (in theory)
 <br>
 <br>
 
-## next
+## deepfaker
 text
 <br>
 <br>
