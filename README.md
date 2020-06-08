@@ -30,7 +30,7 @@ So I built a poster-bot to design only winning posters. [**-->**](101-best-poste
 <br>
 
 # `s`e`e`i`n`g &nbsp;&nbsp;`i`s &nbsp;&nbsp;`b`e`l`i`e`v`i`n`g`
-'Deepfake' techniques in AI are increasingly able to capture our face and use it for any purpose like creating fake campaigns or fake porns. But why not capture the capturing method to capture other things instead.[**-->**](seeing-is-believing/README.md) 
+[Deepfake](https://www.youtube.com/watch?v=cQ54GDm1eL0) techniques in AI are increasingly able to capture our faces and use it for any purpose like creating fake campaigns or fake porns. But why not capture the capturing method to capture other things instead? [**-->**](seeing-is-believing/README.md) 
 <br>
 
 # `titel`
