@@ -5,11 +5,12 @@
 ![ai and i](img/robot-metal-hand.jpg)
 
 `Artificial Intelligence (AI)` or `Machine learning` is a pretty hyped theme the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it come? and most importantly for me: Can I do something with it?
+
 The technology is already here, It is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences our world (big words 😉) or at least how we consume, our techniques to design remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI.
   
-  - [ ] `how does it feel to design for or with an AI?`
-  - [ ] `how does AI as a creative partner change my perspective on design?` 
-  - [ ] `and what new design strategies arise from it?`
+`how does it feel to design for or with an AI?`
+`how does AI as a creative partner change my perspective on design?` 
+`and what new design strategies arise from it?`
 
 
 The following respository is an ongoing collection of design experiments in collaboration with artificial intelligence  
