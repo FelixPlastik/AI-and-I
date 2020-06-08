@@ -18,7 +18,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <br>  
 *If you want to join, please feel free to add your experiment in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
 
-# `1`0`0`% &nbsp;&nbsp;`d`e`t`e`c`t`e`d &nbsp;&nbsp;`i`s &nbsp;&nbsp; `5`0`%`&nbsp;&nbsp; d`e`s`i`g`n`e`d`
+# `100%` &nbsp;&nbsp; detected &nbsp;&nbsp;`is` &nbsp;&nbsp; 50% &nbsp;&nbsp; `designed`
 <img src="img/real-apple-png.png">  
 
 Objects recognition AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. Give it an input image and It is capable to recognize all kinds of objects in it. In this experiment, I used an object recognition AI to design a series of objects that play with the AI's recognizability and invisibility of things and its faults. [**-->**](detected-objects/README.md)  
@@ -33,5 +33,8 @@ So I built a poster-bot to design only winning posters. [**-->**](101-best-poste
 'Deepfake' techniques in AI are increasingly able to capture our face and use it for any purpose like creating fake campaigns or fake porns. But why not capture the capturing method to capture other things instead.[**-->**](seeing-is-believing/README.md) 
 <br>
 
-## nextt
-texxt
+# `titel`
+text
+
+# `titel`
+text
