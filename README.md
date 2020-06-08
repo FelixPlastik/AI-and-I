@@ -1,5 +1,4 @@
 # `Ai` and `I`
-
 # `E`x`p`l`o`r`i`n`g` &nbsp; &nbsp; d`e`s`i`g`n` &nbsp; &nbsp; s`t`r`a`t`e`g`i`e`s` &nbsp; &nbsp; &amp; &nbsp; &nbsp; t`o`o`l`s &nbsp; &nbsp; `i`n &nbsp; &nbsp; `a` &nbsp; &nbsp; c`o`l`a`b`o`r`a`t`i`v`e` &nbsp; &nbsp; p`i`n`g`-`p`o`n`g &nbsp; &nbsp; `b`e`t`w`e`e`n` &nbsp; &nbsp; A`r`t`i`f`i`c`i`a`l` &nbsp; &nbsp;  I`n`t`e`l`l`i`g`e`n`c`e` &nbsp; &nbsp; a`n`d &nbsp; &nbsp; `M`e &nbsp; &nbsp; `a`s &nbsp; &nbsp; `a` &nbsp; &nbsp; d`e`s`i`g`n`e`r`.
 
 ![ai and i](img/robot-metal-hand.jpg)
@@ -19,18 +18,18 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <br>  
 *If you want to join, please feel free to add your experiment in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
 
-## 100% detected is 50% designed
+# `1`0`0`% `d`e`t`e`c`t`e`d `i`s `5`0`%` d`e`s`i`g`n`e`d`
 <img src="img/real-apple-png.png">  
 
 Objects recognition AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. Give it an input image and It is capable to recognize all kinds of objects in it. In this experiment, I used an object recognition AI to design a series of objects that play with the AI's recognizability and invisibility of things and its faults. [**-->**](detected-objects/README.md)  
 <br>
 
-## 101-best-poster-bot
+# `1`0`1`-b`e`s`t`-p`o`s`t`e`r`-b`o`t
 Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster and there is no time to make a winner poster. But if you don't have a poster you can't win.  
 So I built a poster-bot to design only winning posters. [**-->**](101-best-poster-bot/README.md) 
 <br>
 
-## seeing is believing
+# `s`e`e`i`n`g `i`s `b`e`l`i`e`v`i`n`g`
 'Deepfake' techniques in AI are increasingly able to capture our face and use it for any purpose like creating fake campaigns or fake porns. But why not capture the capturing method to capture other things instead.[**-->**](seeing-is-believing/README.md) 
 <br>
 
