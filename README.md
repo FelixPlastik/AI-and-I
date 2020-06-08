@@ -6,7 +6,7 @@
 
 `Artificial Intelligence (AI)` or `Machine learning` is a pretty hyped theme the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it come? and most importantly for me: Can I do something with it?
 
-The technology is already here, It is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences our world (big words 😉) or at least how we consume, our techniques to design remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI.
+The technology is already here, for now it is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences our world (big words 😉) or at least how we consume, our techniques to design remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI.
   
 - [ ] `how does it feel to design for or with an AI?`
 - [ ] `how does AI as a creative partner change my perspective on design?` 
@@ -19,22 +19,18 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <br>  
 *If you want to join, please feel free to add your experiment in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
 
-## detected is half designed
+## 100% detected is 50% designed
 <img src="img/real-apple-png.png" width="40%">  
 
 Objects detection AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. In this experiment, I used an object recognition AI which is capable to recognize all kinds of objects to design a series of objects that play with AI's recognizability and invisibility of things and its faults. [**read more**](detected-objects/README.md)  
-
-<br>
 <br>
 
-## 101-best-poster
-
-Each year the ["100-best-posters from Germany, Austria and Switzerland"](http://100-beste-plakate.de/)-contest asks for the best poster designs. Often I don't have a poster, but if you don't have a poster you can't win.  
-So I built a poster-bot to design only winning posters (in theory)
-<br>
+## 101-best-poster-bot
+Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster and there is no time to make a winner poster. But if you don't have a poster you can't win.  
+So I built a poster-bot to design only winning posters.[**->**](101-best-poster-bot/README.md) 
 <br>
 
-## deepfaker
+## seeing is believing
 text
 <br>
 <br>
