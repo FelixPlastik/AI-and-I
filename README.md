@@ -1,9 +1,11 @@
 # AI-and-I
-Exploring design strategies &amp; tools in a colaborative ping-pong between Artificial Intelligence and Me as a designer.
+`E`x`p`l`o`r`i`n`g` d`e`s`i`g`n` s`t`r`a`t`e`g`i`e`s` &amp; t`o`o`l`s `i`n `a` c`o`l`a`b`o`r`a`t`i`v`e` p`i`n`g`-`p`o`n`g `b`e`t`w`e`e`n` A`r`t`i`f`i`c`i`a`l` I`n`t`e`l`l`i`g`e`n`c`e` a`n`d `M`e `a`s `a` d`e`s`i`g`n`e`r`.
 
 ![ai and i](img/robot-metal-hand.jpg)
 
-*Artificial Intelligence (AI)* or *machine learning* is a pretty hyped theme but a technology that is already in use and will be used more and more in the future. It is mostly subtle so we don't realize it like – perfect google searches or weekly spotify recommendations. While AI influences our world (big words 😉) or at least how we consume, our techniques to design remain untouched and creativity is called a safe haven for jobs which can not be replaced by AI. 
+*Artificial Intelligence (AI)* or *Machine learning* is a pretty hyped theme the last years and to most people, including me, it was unclear when does it come? what the hack does it? and most importantly can I do something with it?
+
+Fact is the technology is already there and will be used more and more in the future. It is mostly subtle so we don't realize it like our perfect google searches or weekly spotify recommendations. While AI influences our world (big words 😉) or at least how we consume, our techniques to design remain untouched and creativity is called a safe haven for jobs which can not be replaced by AI. 
 
 - [ ] But how does it feel to design for or with an AI? 
 - [ ] can it be fun or super annoying?  
