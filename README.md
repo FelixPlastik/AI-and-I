@@ -17,7 +17,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <br>  
 *If you want to join, please feel free to add your experiment in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
 
-# `100%` &nbsp; detected &nbsp;`is` &nbsp; 50% &nbsp; `designed`
+# `100%`detected`is`50%`designed`
 <img src="img/real-apple-png.png">  
 
 Objects recognition AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. Give it an input image and It is capable to recognize all kinds of objects in it. In this experiment, I used an object recognition AI to design a series of objects that play with the AI's recognizability and invisibility of things and its faults. [**-->**](detected-objects/README.md)  
