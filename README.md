@@ -22,12 +22,12 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 ## 100% detected is 50% designed
 <img src="img/real-apple-png.png" width="40%">  
 
-Objects detection AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. In this experiment, I used an object recognition AI which is capable to recognize all kinds of objects to design a series of objects that play with AI's recognizability and invisibility of things and its faults. [**read more**](detected-objects/README.md)  
+Objects detection AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. In this experiment, I used an object recognition AI which is capable to recognize all kinds of objects to design a series of objects that play with AI's recognizability and invisibility of things and its faults. [**-->**](detected-objects/README.md)  
 <br>
 
 ## 101-best-poster-bot
 Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster and there is no time to make a winner poster. But if you don't have a poster you can't win.  
-So I built a poster-bot to design only winning posters.[**->**](101-best-poster-bot/README.md) 
+So I built a poster-bot to design only winning posters. [**-->**](101-best-poster-bot/README.md) 
 <br>
 
 ## seeing is believing
