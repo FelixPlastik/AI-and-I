@@ -1,5 +1,5 @@
-# `Ai` and `I`
-# `E`x`p`l`o`r`i`n`g` &nbsp;&nbsp;&nbsp; d`e`s`i`g`n` &nbsp;&nbsp;&nbsp; s`t`r`a`t`e`g`i`e`s` &nbsp; &nbsp; & &nbsp; &nbsp; t`o`o`l`s &nbsp;&nbsp;&nbsp; `i`n &nbsp; &nbsp; `a` &nbsp; &nbsp; c`o`l`a`b`o`r`a`t`i`v`e` <br> p`i`n`g`-`p`o`n`g &nbsp; &nbsp; `b`e`t`w`e`e`n` <br> A`r`t`i`f`i`c`i`a`l` &nbsp; &nbsp;  I`n`t`e`l`l`i`g`e`n`c`e` &nbsp; &nbsp; & &nbsp; &nbsp; `M`e &nbsp; &nbsp; `a`s &nbsp; &nbsp; `a` &nbsp; &nbsp; d`e`s`i`g`n`e`r`.
+## `Ai` and `I`
+## `E`x`p`l`o`r`i`n`g` &nbsp;&nbsp;&nbsp; d`e`s`i`g`n` &nbsp;&nbsp;&nbsp; s`t`r`a`t`e`g`i`e`s` &nbsp; &nbsp; & &nbsp; &nbsp; t`o`o`l`s &nbsp;&nbsp;&nbsp; `i`n &nbsp; &nbsp; `a` &nbsp; &nbsp; c`o`l`a`b`o`r`a`t`i`v`e` <br> p`i`n`g`-`p`o`n`g &nbsp; &nbsp; `b`e`t`w`e`e`n` <br> A`r`t`i`f`i`c`i`a`l` &nbsp; &nbsp;  I`n`t`e`l`l`i`g`e`n`c`e` &nbsp; &nbsp; & &nbsp; &nbsp; `M`e &nbsp; &nbsp; `a`s &nbsp; &nbsp; `a` &nbsp; &nbsp; d`e`s`i`g`n`e`r`.
 
 <img src="img/robot-metal-hand.jpg" width="50%">  
 
