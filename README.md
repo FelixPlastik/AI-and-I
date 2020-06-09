@@ -1,8 +1,11 @@
 # `Ai` and `I`
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`E`x`p`l`o`r`i`n`g`  
-# &nbsp; &nbsp; d`e`s`i`g`n` &nbsp; &nbsp; s`t`r`a`t`e`g`i`e`s` &nbsp; &nbsp; &amp; &nbsp; &nbsp; t`o`o`l`s &nbsp; &nbsp; `i`n &nbsp; &nbsp; `a` &nbsp; &nbsp; c`o`l`a`b`o`r`a`t`i`v`e` &nbsp; &nbsp; p`i`n`g`-`p`o`n`g &nbsp; &nbsp; `b`e`t`w`e`e`n` &nbsp; &nbsp; A`r`t`i`f`i`c`i`a`l` &nbsp; &nbsp;  I`n`t`e`l`l`i`g`e`n`c`e` &nbsp; &nbsp; a`n`d &nbsp; &nbsp; `M`e &nbsp; &nbsp; `a`s &nbsp; &nbsp; `a` &nbsp; &nbsp; d`e`s`i`g`n`e`r`.
+# `E`x`p`l`o`r`i`n`g` &nbsp; &nbsp; d`e`s`i`g`n` &nbsp; &nbsp; s`t`r`a`t`e`g`i`e`s` &nbsp; &nbsp; &amp; &nbsp; &nbsp; t`o`o`l`s &nbsp; &nbsp; `i`n &nbsp; &nbsp; `a` &nbsp; &nbsp; c`o`l`a`b`o`r`a`t`i`v`e` &nbsp; &nbsp; p`i`n`g`-`p`o`n`g &nbsp; &nbsp; `b`e`t`w`e`e`n` &nbsp; &nbsp; A`r`t`i`f`i`c`i`a`l` &nbsp; &nbsp;  I`n`t`e`l`l`i`g`e`n`c`e` &nbsp; &nbsp; a`n`d &nbsp; &nbsp; `M`e &nbsp; &nbsp; `a`s &nbsp; &nbsp; `a` &nbsp; &nbsp; d`e`s`i`g`n`e`r`.
 
 ![ai and i](img/robot-metal-hand.jpg)
+
+<pre><code>a→a
+ὐ→a
+</code></pre>
 
 `Artificial Intelligence (AI)` or `Machine learning` is a pretty hyped theme the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it come? and most importantly for me: Can I do something with it?
 
