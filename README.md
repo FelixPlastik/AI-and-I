@@ -1,15 +1,11 @@
-## `Ai` and `I`
-## `E`x`p`l`o`r`i`n`g` &nbsp;&nbsp;&nbsp; d`e`s`i`g`n` &nbsp;&nbsp;&nbsp; s`t`r`a`t`e`g`i`e`s` &nbsp; &nbsp; & &nbsp; &nbsp; t`o`o`l`s &nbsp;&nbsp;&nbsp; `i`n &nbsp; &nbsp; `a` &nbsp; &nbsp; c`o`l`a`b`o`r`a`t`i`v`e` <br> p`i`n`g`-`p`o`n`g &nbsp; &nbsp; `b`e`t`w`e`e`n` <br> A`r`t`i`f`i`c`i`a`l` &nbsp; &nbsp;  I`n`t`e`l`l`i`g`e`n`c`e` &nbsp; &nbsp; & &nbsp; &nbsp; `M`e &nbsp; &nbsp; `a`s &nbsp; &nbsp; `a` &nbsp; &nbsp; d`e`s`i`g`n`e`r`.
+# `Ai` and `I`
+# `E`x`p`l`o`r`i`n`g` &nbsp;&nbsp;&nbsp; d`e`s`i`g`n` &nbsp;&nbsp;&nbsp; s`t`r`a`t`e`g`i`e`s` &nbsp; &nbsp; & &nbsp; &nbsp; t`o`o`l`s &nbsp;&nbsp;&nbsp; `i`n &nbsp; &nbsp; `a` &nbsp; &nbsp; c`o`l`a`b`o`r`a`t`i`v`e`&nbsp; &nbsp; p`i`n`g`-`p`o`n`g &nbsp; &nbsp; `b`e`t`w`e`e`n` &nbsp;&nbsp;&nbsp; A`r`t`i`f`i`c`i`a`l` &nbsp;&nbsp;&nbsp;  I`n`t`e`l`l`i`g`e`n`c`e` &nbsp; &nbsp; & &nbsp; &nbsp; `M`e &nbsp; &nbsp; `a`s &nbsp; &nbsp; `a` &nbsp; &nbsp; d`e`s`i`g`n`e`r`.
 
-<img src="img/robot-metal-hand.jpg" width="50%">  
+<img src="img/robot-metal-hand.jpg" width="100%">  
 
-![ai and i](img/robot-metal-hand.jpg)
 
-<pre><code>a→a
-ὐ→a
-</code></pre>
 
-`Artificial Intelligence (AI)` or `Machine learning` is a pretty hyped theme the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it come? and most importantly for me: Can I do something with it?
+`Artificial Intelligence (AI)` and `Machine learning` are pretty hyped themes the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it strike us? and most importantly: What do I have from it?
 
 The technology is already here. For now it is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences our world or at least how we consume, our techniques to design remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI.
   
