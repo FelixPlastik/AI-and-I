@@ -13,15 +13,11 @@
 - [ ] `how does AI as a creative partner change my perspective on design?` 
 - [ ] `and which new design strategies emerge from it??`
 
-In a world of artificially generated content and images, the future will bring a
-massive challenge for fast adaptation of our senses to this new visual reality
-as well as a necessary adaptation of our working methods as designers.
+## In a world of artificially generated content and images, the future will bring a massive challenge for fast adaptation of our senses to this new visual reality as well as a necessary adaptation of our working methods as designers.
 
-With »AI and I« – a joint venture between Artificial Intelligence and Me as a designer, 
-we overcome this gap and form a new Creative Suite of tools and strategies to distinguish between a S and a snake on the floor again.
+## With »AI and I« – a joint venture between Artificial Intelligence and Me as a designer, we overcome this gap and form a new Creative Suite of tools and strategies to distinguish between a S and a snake on the floor again.
 
-In a daily work routine of a creative studio we (AI and I) try to find creative 
-to overcome this gap and form a new Creative Suite of tools and strategies to distinguish between a S and a snake on the floor.
+## In a daily work routine of a creative studio we (AI and I) try to find creative to overcome this gap and form a new Creative Suite of tools and strategies to distinguish between a S and a snake on the floor.
 
 <br>  
 <br>  
@@ -33,7 +29,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 *If you want to join with an experiment, want to leave a comment or find an issue: Feel free to add it in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
 <br>  
 
-# ”`100%`detected`is`50%`designed`“
+## ”`100%`detected`is`50%`designed`“
 <img src="img/real-apple-png.png">  
 
 Objects recognition AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. Give it an input image and It is capable to recognize all kinds of objects in it. In this experiment, I used an object recognition AI to design a series of objects that play with the AI's recognizability and invisibility of things and its faults. [**->**](detected-objects/README.md)  
