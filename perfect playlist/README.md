@@ -1,11 +1,11 @@
 ## `p`e`r`f`e`c`t`&nbsp;&nbsp;&nbsp; p`l`a`y`l`i`s`t` <br>
 
-## All streaming platforms (youtube, spotify, soundcloud, netflix,..) <br> work with recommendations to provide you with the hottest tracks that perfectly match with your taste. The system of "perfect taste" works through inputs like <br> `your search history`,`your listened history`,`your gender`,`your age`,`your location`,`trending videos`,`new content`. 
-
-## All this is constantly fed to an AI algorythm providing you with the perfect sounds. <br> `perfect playlist` is the first pure AI playlist for the office. By cutting out any "personalized" disturbances, a fresh youtube account and without any history, the AI is left alone and reveals a glimpse of how a "clean" AI recommends when there is no personalization.
+## All streaming platforms (youtube, spotify, soundcloud, netflix,..) work with recommendations to provide us <br> with the hottest tracks that perfectly match with our taste. <br> With inputs like <br> our `search history`,`listened history`,`your gender`,`your age`,`your location`,`trending videos` and `new content` we as users constantly feed the AI algorythm which then predicts what we might want to listen to. <br> `perfect playlist` is the first pure AI playlist for the office. <br> By cutting out any "personalized" disturbances with a fresh youtube account and without any history, the AI is left alone and reveals a glimpse of how a "clean" AI makes recommendations when there is no personalization.
+<br>
+<br>  
 
 get the
-## `perfect` <br> `playlist`
+## `> perfect playlist here <`
 
 ![](youtube-recommendation-algorythm-overview.png)  
 overview, youtube recommendation algorythm ([source](https://towardsdatascience.com/using-deep-neural-networks-to-make-youtube-recommendations-dfc0a1a13d1e))
