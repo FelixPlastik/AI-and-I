@@ -11,8 +11,8 @@
 ## The technology is already here. For now it is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences what we buy, how we consume and how the digital world is shown to us, our design techniques remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI.
   
 - [ ] `how does it feel to design for or with an AI?`
-- [ ] **`how does AI as a creative partner change my perspective on design?`** 
-- [ ] **`and which new design strategies emerge from it??`**
+- [ ] `how does AI as a creative partner change my perspective on design?` 
+- [ ] `and which new design strategies emerge from it??`
 
 ## In a world of artificially generated content and images, the future will bring a massive challenge for fast adaptation of our senses to this new visual reality as well as a necessary adaptation of our working methods as designers.
 
