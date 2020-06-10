@@ -1,9 +1,8 @@
-# `p`e`r`f`e`c`t`&nbsp;&nbsp;&nbsp; p`l`a`y`l`i`s`t`
+## `p`e`r`f`e`c`t`&nbsp;&nbsp;&nbsp; p`l`a`y`l`i`s`t` <br>
 
+## All streaming platforms (youtube, spotify, soundcloud, netflix,..) <br> work with recommendations to provide you with the hottest tracks that perfectly match with your taste. The system of "perfect taste" works through inputs like <br> `your search history`,`your listened history`,`your gender`,`your age`,`your location`,`trending videos`,`new content`. 
 
-# All streaming platforms (youtube, spotify, soundcloud, netflix,..) work with recommendations <br> to provide you with the hottest tracks that perfectly match with your taste. The system of "perfect taste" works through inputs like <br> `your search history`,`your listened history`,`your gender`,`your age`,`your location`,`trending videos`,`new content`. 
-
-# All this is constantly fed to an AI algorythm providing you with the perfect sounds. <br> `perfect playlist` is the first pure AI playlist for the office. By cutting out any "personalized" disturbances, a fresh youtube account and without any history, the AI is left alone and reveals a glimpse of how a "clean" AI recommends when there is no personalization.
+## All this is constantly fed to an AI algorythm providing you with the perfect sounds. <br> `perfect playlist` is the first pure AI playlist for the office. By cutting out any "personalized" disturbances, a fresh youtube account and without any history, the AI is left alone and reveals a glimpse of how a "clean" AI recommends when there is no personalization.
 
 get the
 ## `perfect` <br> `playlist`
