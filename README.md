@@ -6,7 +6,7 @@
 
 
 ## `Artificial Intelligence (AI)` and `Machine learning` are pretty hyped themes the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it strike us? and most importantly: What do I have from it?
-
+<br><br>
 ## The technology is already here. For now it is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences what we buy, how we consume and how the digital world is shown to us, our design techniques remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI.
   
 - [ ] `how does it feel to design for or with an AI?`
