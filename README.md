@@ -41,13 +41,12 @@ Objects recognition AI is one of the major uses in machine learning since it is 
 <br>
 <br>  
 ## ”`1`0`1` - b`e`s`t` - p`o`s`t`e`r` - b`o`t“
-***
 Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster and there is no time to make a winner poster. But if you don't have a poster you can't win.  
 So I built a poster-bot to design only winning posters. [**->**](101-best-poster-bot/README.md) 
 <br>
 <br>
 <br>  
-## ”`s`e`e`i`n`g &nbsp;&nbsp;`i`s &nbsp;&nbsp;`b`e`l`i`e`v`i`n`g`“
+## [”`s`e`e`i`n`g &nbsp;&nbsp;`i`s &nbsp;&nbsp;`b`e`l`i`e`v`i`n`g`“](seeing-is-believing/README.md) 
 [Deepfake](https://www.youtube.com/watch?v=cQ54GDm1eL0) techniques in AI are increasingly able to capture our faces and use it for any purpose like creating fake campaigns or fake porns. But why not capture the capturing method to capture other things instead? [**->**](seeing-is-believing/README.md) 
 <br>
 <br>
