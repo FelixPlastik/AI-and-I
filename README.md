@@ -34,7 +34,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 ___
 ___
-___
+---
 ## `100%`detected`is`50%`designed`
 <img src="img/real-apple-png.png">  
 
