@@ -1,4 +1,4 @@
-## `p`e`r`f`e`c`t`&nbsp;&nbsp;&nbsp; p`l`a`y`l`i`s`t` <br>
+## `p`e`r`f`e`c`t`&nbsp;&nbsp;&nbsp; p`l`a`y`l`i`s`t` <br><br>
 
 ## All streaming platforms (youtube, spotify, soundcloud, netflix,..) work with recommendations to provide us with the hottest tracks that perfectly match with our taste. With inputs like our `search history`,`listened history`,`your gender`,`your age`,`your location`,`trending videos` and `new content` we as users constantly feed the AI algorythm which then predicts what we might want to listen to. <br><br> `perfect playlist` is the first pure AI playlist for the office. <br> By cutting out any "personalized" disturbances with a fresh youtube account and without any history, the AI is left alone and reveals a glimpse of how a "clean" AI makes recommendations when there is no personalization.
 <br>
