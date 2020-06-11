@@ -1,4 +1,12 @@
-# detected objects
+# `d`e`t`e`c`t`e`d` `o`b`j`e`c`t`s
+
+
+![](vorhang.gif)  
+
+
+
+
+
 
 Object detection (or object/image recognition) is a quite popular AI usage. It takes input images, analyses them and recognizes things, or faces or whatever you want. The more images you give it to learn from, the better it recognizes things later.  
 The use cases reach from surveillance cameras to monitor people to selfdriving cars that recognize cats on the street.  
