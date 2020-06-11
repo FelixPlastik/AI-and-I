@@ -32,7 +32,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 *If you want to join with an experiment, want to leave a comment or find an issue: Feel free to add it in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
 <br>  
 
-–––
+___
 ## `100%`detected`is`50%`designed`
 ***
 <img src="img/real-apple-png.png">  
