@@ -43,7 +43,7 @@ So I built a poster-bot to design only winning posters. [&#9166;](101-best-poste
 ## `P`i`Z`Z`A` e `G`U`S`T`O`
 <img src="img/pizza.gif">  
 <br>
-<img src="img/pizza.gif">
+<img src="img/pizza.gif" width="200"/>
 <br>
 ## A dinner workshop in which AI took over the role of the untouchable pizzero. In a ping pong between pizza order and AI understanding, we explored how it might feel when your pizza-wish gets interpreted through several machine learning layers.  
 [go to project](seeing-is-believing/README.md)
