@@ -41,6 +41,7 @@ Objects recognition AI is one of the major uses in machine learning since it is 
 
 ## `P`i`Z`Z`A` e `G`U`S`T`O`
 <img src="img/pizza.gif">  
+
 ## dinner workshop in which AI takes over the role of the untouchable pizzero. In a ping pong between pizza order and AI understanding, we explored how it might feel when your pizza-wish gets interpreted through several machine learning layers.  
 <br>
 <br>
