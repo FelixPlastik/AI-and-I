@@ -51,8 +51,8 @@ So I built a poster-bot to design only winning posters. [&#9166;](101-best-poste
 
 <img src="img/real-apple-png.png">  
 
-## [Deepfake](https://www.youtube.com/watch?v=cQ54GDm1eL0) techniques in AI are increasingly able to capture our faces and use it for any purpose like creating fake campaigns or fake porns (which is sadly the most usage at the moment). On the other hand our designed environment is deeply inspired by faces like houses or car fronts.    we design our But why not capture the capturing method to capture other things instead?
-[enter](seeing-is-believing/README.md)
+## [Deepfake](https://www.youtube.com/watch?v=cQ54GDm1eL0) AIs are increasingly able to capture our faces and use it for any purpose like creating fake campaigns or fake porns. On the other hand our designed environment is deeply inspired by faces like houses or car fronts. Fenster combines both ways 
+## [enter](seeing-is-believing/README.md)
 
 <br><br><br>
 
