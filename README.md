@@ -67,7 +67,7 @@ So I built a poster-bot to design only winning posters. [&#9166;](101-best-poste
 
 
 
-## `24`h`o`u`r`s `n`a`t`u`r`a`l `w`o`r`k` a`m`b`i`e`n`t 
+## `24`h`o`u`r`s &nbsp;`n`a`t`u`r`a`l`&nbsp; w`o`r`k`&nbsp; a`m`b`i`e`n`t 
 <img src="img/window-thumb.png">  
 
 ## Perfectly efficent AI trained on working sounds. The working sounds were performed by myself. suggesting the 24/7 open design studio. dont call me at weekend!
