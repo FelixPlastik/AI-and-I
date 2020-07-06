@@ -25,7 +25,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <br>  
 <br>  
 ## `P`i`Z`Z`A`
-<img src="img/real-apple-png.png">  
+<img src="img/PIZZA.gif">  
 <br>
 <br>
 
