@@ -29,6 +29,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 ## `1`0`1`-B`e`s`t`-P`o`s`t`e`r`-B`o`t
 <img src="img/101-poster-thumb.gif">  
+
 #### Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster and there is no time to make a winner poster. But if you don't have a poster you can't win. So I built a poster-bot to design only winning posters.  
 [go to project](101-best-poster-bot/README.md) 
 
