@@ -78,3 +78,16 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 [go to project](seeing-is-believing/README.md)
 
 <br><br><br><br>
+
+
+
+## w`o`r`d` c`h`a`i`r
+<img src="img/window-thumb.png">  
+
+### chair text dudeldudeudlduel 
+
+<br><br><br><br>
+
+
+
+
