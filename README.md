@@ -1,17 +1,18 @@
 ## `Ai` and `I`  
 <img src="img/robot-metal-hand.jpg" width="100%">  
 
-## `E`x`p`l`o`r`i`n`g` &nbsp;&nbsp;&nbsp; d`e`s`i`g`n` &nbsp;&nbsp;&nbsp; s`t`r`a`t`e`g`i`e`s` &nbsp; &nbsp; & &nbsp; &nbsp; t`o`o`l`s &nbsp;&nbsp;&nbsp; `i`n &nbsp; &nbsp; `a` &nbsp; &nbsp; c`o`l`a`b`o`r`a`t`i`v`e`&nbsp; &nbsp; p`i`n`g`-`p`o`n`g &nbsp; &nbsp; `b`e`t`w`e`e`n` &nbsp;&nbsp;&nbsp; A`r`t`i`f`i`c`i`a`l` &nbsp;&nbsp;&nbsp;  I`n`t`e`l`l`i`g`e`n`c`e` &nbsp; &nbsp; & &nbsp; &nbsp; `M`e &nbsp; &nbsp; `a`s &nbsp; &nbsp; `a` &nbsp; &nbsp; d`e`s`i`g`n`e`r`.
+### Exploring design strategies tools in a colaborative ping-pong between Artificial Intelligence and me as a designer.
 
-## `Artificial Intelligence (AI)` and `Machine learning` are pretty hyped themes the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it strike us? and most importantly: What do I have from it?  
+### Artificial Intelligence (AI) is a pretty hyped themes the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it strike us? and most importantly: What do I have from it?  
 
-## The technology is already here. For now it is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences what we buy, how we consume and how the digital world is shown to us, our design techniques remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI. <br> `How does it feel to design for or with an AI?` <br> `How does AI as a creative partner change my perspective on design?` <br> `And which new design strategies emerge from it?`
+### The technology is already here. For now it is mostly subtle so we don't realize it – like the perfect Google Search or weekly spotify recommendations. While AI influences what we buy, how we consume and how the digital world is shown to us, our design techniques remain untouched and creativity is called one of the safe haven for jobs which can not be replaced by AI. <br> `How does it feel to design for or with an AI?` <br> `How does AI as a creative partner change my perspective on design?` <br> `And which new design strategies emerge from it?`
 
-## In a world of artificially generated content and images, the future will bring a massive challenge for fast adaptation of our senses to this new visual reality as well as a necessary adaptation of our working methods as designers.
+### In a world of artificially generated content and images, the future will bring a massive challenge for fast adaptation of our senses to this new visual reality as well as a necessary adaptation of our working methods as designers.
 
-## With »AI and I« – a joint venture between Artificial Intelligence and Me as a designer, we overcome this gap and form a new Creative Suite of tools and strategies to distinguish between a S and a snake on the floor again.
+### With »AI and I« – a joint venture between Artificial Intelligence and Me as a designer, we overcome this gap and form a new Creative Suite of tools and strategies to distinguish between a S and a snake on the floor again.
 
-## In a daily work routine of a creative studio we (AI and I) try to find creative to overcome this gap and form a new Creative Suite of tools and strategies to distinguish between a S and a snake on the floor.
+### In a daily work routine of a creative studio we (AI and I) try to find creative to overcome this gap and form a new Creative Suite of tools and strategies to distinguish between a S and a snake on the floor.
+
 
 <br>  
 <br>  
