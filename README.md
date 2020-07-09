@@ -51,7 +51,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 
 ## `things`&nbsp; for &nbsp;`datasets`    
-&nbsp; <br><br>    
+&nbsp; <br>    
 ![tasse](/img/tasse-1-2.jpg)    
 <br>   
 
