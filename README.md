@@ -57,7 +57,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 ## `things`&nbsp; for &nbsp;`datasets`    
 &nbsp; <br>    
-![tasse](/img/tasse-1-2.jpg)    
+![tasse](/img/tasse-1-3.jpg)    
 <br>   
 
 > objects recognition AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. Give it an input image and It is capable to 
