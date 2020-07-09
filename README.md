@@ -50,9 +50,11 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 
 
-# `things`&nbsp; for &nbsp;`datasets`   <br>   
-![tasse](/img/tasse-1-2.jpg)   <br><br>        
-# objects recognition AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. Give it an input image and It is capable to recognize all kinds of objects in it. In this experiment, I used an object recognition AI to design a series of objects that play with the AI's recognizability and invisibility of things and its faults.   <br>   
+## `things`&nbsp; for &nbsp;`datasets`   
+<br>   
+![tasse](/img/tasse-1-2.jpg)   
+<br><br>    
+### objects recognition AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. Give it an input image and It is capable to recognize all kinds of objects in it. In this experiment, I used an object recognition AI to design a series of objects that play with the AI's recognizability and invisibility of things and its faults.   <br>   
 [go to project](detected-objects/README.md)   
 
 <br><br><br><br><br>
