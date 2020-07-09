@@ -92,9 +92,9 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <!---   S T U H L   --->
 
 ## w`o`r`d`&nbsp;&nbsp; c`h`a`i`r   
-<br><br>
+<br>
 <img src="img/stuhl-4.png">   
-<br><br>   
+<br>   
 ## wordcloud based on a video of a chair reverse predicted by an object detection AI.
 [go to project](seeing-is-believing/README.md)
 
