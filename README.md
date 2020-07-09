@@ -31,7 +31,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 ## `1`0`1`-B`e`s`t`-P`o`s`t`e`r`-B`o`t
 <img src="img/101-poster-thumb.gif">  
 
-### Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster and there is no time to make a winner poster. But if you don't have a poster you can't win. So I built a poster-bot to design only winning posters.  
+## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster and there is no time to make a winner poster. But if you don't have a poster you can't win. So I built a poster-bot to design only winning posters.  
 [go to project](101-best-poster-bot/README.md) 
 <br><br><br><br><br><br><br><br>
 
@@ -44,7 +44,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 ## `P`i`Z`Z`A`&nbsp;&nbsp; e &nbsp;&nbsp;`G`U`S`T`O`
 <img src="img/pizza.gif">  
 
-### A dinner workshop in which AI took over the role of the untouchable pizzero. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
+## A dinner workshop in which AI took over the role of the untouchable pizzero. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
 [go to project](seeing-is-believing/README.md)
 <br><br><br><br><br><br><br><br>
 
@@ -70,7 +70,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 ## `S`e`e`i`n`g &nbsp;&nbsp;`i`s &nbsp;&nbsp;`B`e`l`i`e`v`i`n`g` 
 <img src="img/window-thumb.png">  
 
-### [Deepfake](https://www.youtube.com/watch?v=cQ54GDm1eL0) AIs are increasingly able to capture our faces and use it for any purpose like creating fake campaigns or fake porns. On the other hand our designed environment is deeply inspired by faces like houses or car fronts. Fenster combines both ways 
+## [Deepfake](https://www.youtube.com/watch?v=cQ54GDm1eL0) AIs are increasingly able to capture our faces and use it for any purpose like creating fake campaigns or fake porns. On the other hand our designed environment is deeply inspired by faces like houses or car fronts. Fenster combines both ways 
 [go to project](seeing-is-believing/README.md)
 <br><br><br><br><br><br><br><br>
 
@@ -82,7 +82,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 ## `24`h`o`u`r`s &nbsp;&nbsp;`n`a`t`u`r`a`l`&nbsp;&nbsp; w`o`r`k`&nbsp;&nbsp; a`m`b`i`e`n`t 
 <img src="img/window-thumb.png">  
 
-### Perfectly efficent AI trained on working sounds. The working sounds were performed by myself. suggesting the 24/7 open design studio. dont call me at weekend!
+## Perfectly efficent AI trained on working sounds. The working sounds were performed by myself. suggesting the 24/7 open design studio. dont call me at weekend!
 [go to project](seeing-is-believing/README.md)
 <br><br><br><br><br><br><br><br>
 
@@ -94,5 +94,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 ## w`o`r`d` c`h`a`i`r
 <img src="img/window-thumb.png">  
 
-### chair text dudeldudeudlduel 
+## wordcloud based on a video of a chair reverse predicted by an object detection AI.
+[go to project](seeing-is-believing/README.md)
+
 <br><br><br><br><br><br><br>
