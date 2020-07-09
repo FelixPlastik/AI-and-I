@@ -1,3 +1,5 @@
+<!---   I N T R O   --->
+
 ## `Ai` and `I`  
 <img src="img/robot-metal-hand.jpg" width="100%">  
 
@@ -15,41 +17,44 @@
 
 <br><br><br><br>
 
-
-
-
 The following respository shows a collection of design experiments all collaboration with artificial intelligence.  
 The mode always changes, which means sometimes the AI is the designer, sometimes it is me.  
 Sometimes it is me against AI and sometimes AI has to approve my design..There are no limits!  
 *If you want to join with an experiment, want to leave a comment or find an issue: Feel free to add it in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)*
-
 <br><br><br><br>
 
 
 
+
+
+<!---   P O S T E R   --->
 
 ## `1`0`1`-B`e`s`t`-P`o`s`t`e`r`-B`o`t
 <img src="img/101-poster-thumb.gif">  
 
 ### Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster and there is no time to make a winner poster. But if you don't have a poster you can't win. So I built a poster-bot to design only winning posters.  
 [go to project](101-best-poster-bot/README.md) 
-
-<br><br><br><br>
-
+<br><br><br><br><br>
 
 
+
+
+
+<!---   P I Z Z A   --->
 
 ## `P`i`Z`Z`A`&nbsp;&nbsp; e &nbsp;&nbsp;`G`U`S`T`O`
 <img src="img/pizza.gif">  
 
 ### A dinner workshop in which AI took over the role of the untouchable pizzero. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
 [go to project](seeing-is-believing/README.md)
-
-<br><br><br><br>
-
+<br><br><br><br><br>
 
 
-***
+
+
+
+<!---   O B J E K T E   --->
+
 ## `things`&nbsp; for &nbsp;`datasets`    
 &nbsp; <br>    
 ![tasse](/img/tasse-1-2.jpg)    
@@ -58,37 +63,42 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 > objects recognition AI is one of the major uses in machine learning since it is way faster and more accurate then any human eye. Give it an input image and It is capable to 
 > recognize all kinds of objects in it. In this experiment, I used an object recognition AI to design a series of objects that play with the AI's recognizability and invisibility > of things and its faults.   <br>   
 [go to project](detected-objects/README.md)   
-
 <br><br><br><br><br>
 
 
 
+
+
+<!---   F E N S T E R   --->
 
 ## `S`e`e`i`n`g &nbsp;&nbsp;`i`s &nbsp;&nbsp;`B`e`l`i`e`v`i`n`g` 
 <img src="img/window-thumb.png">  
 
 ### [Deepfake](https://www.youtube.com/watch?v=cQ54GDm1eL0) AIs are increasingly able to capture our faces and use it for any purpose like creating fake campaigns or fake porns. On the other hand our designed environment is deeply inspired by faces like houses or car fronts. Fenster combines both ways 
 [go to project](seeing-is-believing/README.md)
-
-<br><br><br><br>
-
+<br><br><br><br><br>
 
 
+
+
+
+<!---   S O U N D    --->
 
 ## `24`h`o`u`r`s &nbsp;&nbsp;`n`a`t`u`r`a`l`&nbsp;&nbsp; w`o`r`k`&nbsp;&nbsp; a`m`b`i`e`n`t 
 <img src="img/window-thumb.png">  
 
 ### Perfectly efficent AI trained on working sounds. The working sounds were performed by myself. suggesting the 24/7 open design studio. dont call me at weekend!
 [go to project](seeing-is-believing/README.md)
-
-<br><br><br><br>
-
+<br><br><br><br><br>
 
 
+
+
+
+<!---   S T U H L   --->
 
 ## w`o`r`d` c`h`a`i`r
 <img src="img/window-thumb.png">  
 
 ### chair text dudeldudeudlduel 
-
-<br><br><br><br>
+<br><br><br><br><br>
