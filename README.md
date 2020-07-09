@@ -47,12 +47,12 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 ### A dinner workshop in which AI took over the role of the untouchable pizzero. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
 [go to project](seeing-is-believing/README.md)
-<br><br><br><br><br>
-
-
-
-
-
+## * <br>
+## * <br>
+## * <br>
+## * <br>
+## * <br>
+## * <br>
 <!---   O B J E K T E   --->
 
 ## `things`&nbsp; for &nbsp;`datasets`    
