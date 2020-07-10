@@ -1,6 +1,6 @@
 <!---   I N T R O   --->
 
-# `Ai` and `I`  
+## `Ai` and `I`  
 
 ## Exploring design strategies tools in a colaborative ping-pong between Artificial Intelligence and me as a designer.
 ## Artificial Intelligence (AI) is a pretty hyped themes the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it strike us? and most importantly: What do I have from it?  
@@ -21,7 +21,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 
 <!---   P O S T E R   --->
 
-## `1`0`1`-B`e`s`t`-P`o`s`t`e`r`-B`o`t
+## `1`0`1`&nbsp; B`e`s`t`&nbsp;P`o`s`t`e`r`&nbsp;B`o`t
 <img src="img/thumb-poster.jpg">  
 
 ## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster but I want to win. So I built an AI-intern to design only winning posters.  
