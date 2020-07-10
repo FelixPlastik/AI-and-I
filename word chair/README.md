@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### resources:   
+### resources   
 full overview of Activation Atlas: [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)     
 activation atlas on github: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid)   
 Overview of all ImageNet classes: [https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) ; [http://image-net.org/explore.php](http://image-net.org/explore.php)   
