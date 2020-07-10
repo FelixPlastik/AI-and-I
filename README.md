@@ -1,7 +1,6 @@
 <!---   I N T R O   --->
 
-## `Ai` and `I`  
-<img src="img/robot-metal-hand.jpg" width="100%">  
+# `Ai` and `I`  
 
 ## Exploring design strategies tools in a colaborative ping-pong between Artificial Intelligence and me as a designer.
 ## Artificial Intelligence (AI) is a pretty hyped themes the last years and I guess to most people including myself, it is totally unclear what the hack it does? when does it strike us? and most importantly: What do I have from it?  
