@@ -63,7 +63,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 ## `face`to `see` place `to` be 
 <img src="img/window-thumb.png">  
 
-## deepfake architecture. beeing panoramic.
+## We humans tend to see faces everywhere and we design faces in everything. I used harmful deepfake technique to make this dream come true for real.
 [go to project](seeing-is-believing/README.md)
 <br><br><br><br><br><br><br><br>
 
