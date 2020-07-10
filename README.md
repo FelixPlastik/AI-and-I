@@ -61,7 +61,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <!---   F E N S T E R   --->
 
 ## `face`to `see` place `to` be 
-<img src="img/window-thumb.png">  
+<img src="img/thumb-fenster.jpg">  
 
 ## We humans tend to see faces everywhere and we design faces in everything. I used harmful deepfake technique to make this dream come true for real.
 [go to project](seeing-is-believing/README.md)
