@@ -97,7 +97,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <img src="img/thumb-chair.gif">    
 <br>   
 
-## part predictions made by an AI based on a video of a chair on a field.   
+## assumptions about a wooden chair on a green field.   
 [go to project](seeing-is-believing/README.md)
 
 <br><br><br><br><br><br><br>
