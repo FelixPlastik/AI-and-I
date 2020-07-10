@@ -11,9 +11,12 @@
   
 ### So I took the "Activation Atlas" to make assumptions about a video of a chair. <br>I used these predictions of the parts of the image for each videoframe (1 image = 71 rows á 15 = 1065 cells * 247 frames = 263055 predictions) and turned them into a word map.   
    
+![a](img/out-4.jpg)   
+
+   
 ### here are some more tests i made with different objects:
    
-!img tests   
+![a](img/out-3.jpg)   
    
    
 <br>
