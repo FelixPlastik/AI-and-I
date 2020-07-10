@@ -6,11 +6,14 @@
 
 !img
   
-### So I took the "Activation Atlas" to make assumptions about a video of a chair. I used these predictions of the parts of the image for each videoframe (1 image = 71 rows á 15 = 1065 cells * 247 frames = 263055 predictions) and turned them in words. 
-
-
-### here are some if the tests i made with different objects:
-
+### So I took the "Activation Atlas" to make assumptions about a video of a chair. I used these predictions of the parts of the image for each videoframe (1 image = 71 rows á 15 = 1065 cells * 247 frames = 263055 predictions) and turned them into a word map.   
+   
+   
+### here are some of the tests i made with different objects:
+   
+   
+   
+   
 ### resources:   
 full overview of Activation Atlas: [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)     
 activation atlas on github: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid)   
