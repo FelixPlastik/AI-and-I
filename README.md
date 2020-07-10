@@ -67,7 +67,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 <!---   F E N S T E R   --->
 
-## `S`e`e`i`n`g &nbsp;&nbsp;`i`s &nbsp;&nbsp;`B`e`l`i`e`v`i`n`g` 
+## `face`to `see` place `to` be 
 <img src="img/window-thumb.png">  
 
 ## [Deepfake](https://www.youtube.com/watch?v=cQ54GDm1eL0) AIs are increasingly able to capture our faces and use it for any purpose like creating fake campaigns or fake porns. On the other hand our designed environment is deeply inspired by faces like houses or car fronts. Fenster combines both ways 
