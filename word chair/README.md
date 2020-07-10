@@ -13,7 +13,9 @@ test bilder von grass und holz
 <br>
 <br>   
    
-> Bild stuhl grid
+![a](img/gif-stuhl.gif)   
+
+
 > video zoom text
    
 <br>
