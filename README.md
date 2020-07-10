@@ -21,7 +21,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 
 <!---   P O S T E R   --->
 
-## `1`0`1`&nbsp;&nbsp; B`e`s`t`&nbsp;&nbsp;P`o`s`t`e`r`&nbsp;&nbsp;B`o`t
+## `1`0`1`&nbsp;&nbsp;&nbsp; B`e`s`t`&nbsp;&nbsp;&nbsp;P`o`s`t`e`r`&nbsp;&nbsp;&nbsp;B`o`t
 <img src="img/thumb-poster.jpg">  
 
 ## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster but I want to win. So I built an AI-intern to design only winning posters.  
@@ -34,7 +34,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 
 <!---   P I Z Z A   --->
 
-## `P`i`z`Z`a`&nbsp;&nbsp; e &nbsp;&nbsp;`G`u`s`t`o`
+## `P`i`z`Z`a`&nbsp;&nbsp;&nbsp; e &nbsp;&nbsp;&nbsp;`G`u`s`t`o`
 <img src="img/pizza.gif">  
 
 ## dinner workshop in which we let AI take over the role of the almighty pizzero. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
@@ -84,7 +84,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 
 <!---   S T U H L   --->
 
-## w`o`r`d`&nbsp;&nbsp; c`h`a`i`r   
+## w`o`r`d`&nbsp;&nbsp;&nbsp; c`h`a`i`r   
 
 <br>
 <img src="img/thumb-chair.gif">    
