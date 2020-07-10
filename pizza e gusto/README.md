@@ -1,4 +1,4 @@
-## ´P´i´z´z´a´ e ´G´u´s´t´o
+## `P`i`z`z`a` e `G`u`s`t`o
 
 ### In `word chair` I used a technique called [Activation Atlas](https://distill.pub/2019/activation-atlas/). The problem with neuronal networks is that mostly they are black boxes to us, so we don't know whats going on inside. For instance, if we take the image of a dog and put it in the network, it says: `100% dog`. We would agree with that, but we don't know what actually happened inside the black box that it says "this is a dog".   
 ### The project `Activation Atlas` by Google Brain and OpenAI tries to reverse engineer this black box to better understand what neuronal networks "think" in certain parts of an image – so they ask: <br> What do you think of the first upper 10px?...what do you think of the second 10px?... and so on. 
