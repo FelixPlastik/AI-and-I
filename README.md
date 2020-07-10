@@ -25,7 +25,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 <img src="img/thumb-poster.jpg">  
 
 ## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster but I want to win. So I built an AI-intern to design only winning posters.  
-[go to project](101 best poster bot/README.md) 
+[go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/101%20best%20poster%20bot) 
 <br><br><br><br><br><br><br><br>
 
 
@@ -38,7 +38,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 <img src="img/pizza.gif">  
 
 ## dinner workshop in which we let AI take over the role of the almighty pizzero. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
-[go to project](pizza e gusto/README.md)
+[go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/pizza%20e%20gusto)
 <br><br><br><br><br><br><br><br>
 
 
@@ -51,8 +51,8 @@ If you want to join with an experiment, want to leave a comment or find an issue
 ![tasse](/img/thumb-objects.gif)    
 <br>   
 
-## series of furnishing objects I designed in a ping pong with object detection AI.   <br>   
-[go to project](things for datasets/README.md)   
+## series of furnishing objects I designed in a ping pong with object detection AI.<br>   
+[go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/things%20for%20datasets)   
 <br><br><br><br><br><br><br><br>
 
 
@@ -72,11 +72,11 @@ If you want to join with an experiment, want to leave a comment or find an issue
 
 <!---   S O U N D    --->
 
-## `24`h`o`u`r`s &nbsp;&nbsp;`n`a`t`u`r`a`l`&nbsp;&nbsp; w`o`r`k`&nbsp;&nbsp; a`m`b`i`e`n`t 
+## `S`o`u`n`d`s &nbsp;&nbsp;`l`i`k`e &nbsp;&nbsp; `w`o`r`k 
 <img src="img/thumb-sound.jpg">  
 
 ## Perfectly efficent AI trained on working sounds. The working sounds were performed by myself. suggesting the 24/7 open design studio. dont call me at weekend!
-[go to project](sounds like work/README.md)
+[go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/sounds%20like%20work)
 <br><br><br><br><br><br><br><br>
 
 
