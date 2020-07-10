@@ -21,7 +21,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 
 <!---   P O S T E R   --->
 
-## `1`0`1`&nbsp; B`e`s`t`&nbsp;P`o`s`t`e`r`&nbsp;B`o`t
+## `1`0`1`&nbsp;&nbsp; B`e`s`t`&nbsp;&nbsp;P`o`s`t`e`r`&nbsp;&nbsp;B`o`t
 <img src="img/thumb-poster.jpg">  
 
 ## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster but I want to win. So I built an AI-intern to design only winning posters.  
