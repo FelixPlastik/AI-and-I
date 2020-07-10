@@ -9,10 +9,9 @@
 
 test bilder von grass und holz
 
-### I took the "Activation Atlas" to make assumptions about a video of a chair. <br>Each videoframe is split up into parts and gets analysed. I took always the highest predictions and turned them into a word map. <br> (1 frame = 71 x 15 rows = 1065 cells x 247 frames = 263055 predictions)
-<br>
+### I took the "Activation Atlas" to make assumptions about a video of a chair. <br>Each videoframe is split up into parts and gets analysed. I took always the highest predictions and turned them into a word map. <br> (1 frame = 71 x 15 rows = 1065 cells x 247 frames = 263055 predictions)   
 ![a](img/gif-stuhl.gif)   
-<br>
+<br><br>
 > video zoom text
 <br>
 <br>
