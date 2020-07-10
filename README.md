@@ -25,7 +25,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <img src="img/thumb-poster.jpg">  
 
 ## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster but I want to win. So I built an AI-intern to design only winning posters.  
-[go to project](101-best-poster-bot/README.md) 
+[go to project](101 best poster bot/README.md) 
 <br><br><br><br><br><br><br><br>
 
 
@@ -38,7 +38,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <img src="img/pizza.gif">  
 
 ## dinner workshop in which we let AI take over the role of the almighty pizzero. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
-[go to project](seeing-is-believing/README.md)
+[go to project](pizza e gusto/README.md)
 <br><br><br><br><br><br><br><br>
 
 
@@ -52,7 +52,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <br>   
 
 ## series of furnishing objects I designed in a ping pong with object detection AI.   <br>   
-[go to project](detected-objects/README.md)   
+[go to project](things for datasets/README.md)   
 <br><br><br><br><br><br><br><br>
 
 
@@ -76,7 +76,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <img src="img/window-thumb.png">  
 
 ## Perfectly efficent AI trained on working sounds. The working sounds were performed by myself. suggesting the 24/7 open design studio. dont call me at weekend!
-[go to project](seeing-is-believing/README.md)
+[go to project](sounds like work/README.md)
 <br><br><br><br><br><br><br><br>
 
 
@@ -91,6 +91,6 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <br>   
 
 ## assumptions about a wooden chair on a green field.   
-[go to project](seeing-is-believing/README.md)
+[go to project](word chair/README.md)
 
 <br><br><br><br><br><br><br>
