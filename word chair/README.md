@@ -1,4 +1,4 @@
-# `Wo`r`d` c`ha`i`r`
+# `Wo`r`d` &nbsp; c`ha`i`r`
 
 In `word chair` I used a technique called [Activation Atlas](https://distill.pub/2019/activation-atlas/). The problem with neuronal networks is that most of the time they are black boxes. For instance, if you take the image of a dog and put it in the network, it says: `100% dog`. We would agree with that, but we don't know what actually happened inside the black box that it says "this is a dog".
 
