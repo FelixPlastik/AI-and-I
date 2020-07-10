@@ -7,7 +7,7 @@
 
 ### That creates a grid of assumptions. The assumptions are visualization + text predictions and look like this:  
 
-![a](img/predictions-1.jpg)   
+![a](img/predictions.gif)   
 
 ### I took "Activation Atlas" to make assumptions about a video of a chair on grass.<br>Each videoframe is split up into parts and gets analysed. Afterwards I took the highest predictions and turned them into a word map. <br><br>1 frame = 71 x 15 rows = 1065 cells <br> 1065 cells x 247 frames = 263055 predictions   
 ![a](img/gif-stuhl-2.gif)   
