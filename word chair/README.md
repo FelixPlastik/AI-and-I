@@ -16,6 +16,10 @@
 !img tests   
    
    
+<br>
+<br>
+<br>
+
 ### resources:   
 full overview of Activation Atlas: [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)     
 activation atlas on github: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid)   
