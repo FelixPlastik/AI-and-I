@@ -73,7 +73,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <!---   S O U N D    --->
 
 ## `24`h`o`u`r`s &nbsp;&nbsp;`n`a`t`u`r`a`l`&nbsp;&nbsp; w`o`r`k`&nbsp;&nbsp; a`m`b`i`e`n`t 
-<img src="img/window-thumb.png">  
+<img src="img/thumb-sound.jpg">  
 
 ## Perfectly efficent AI trained on working sounds. The working sounds were performed by myself. suggesting the 24/7 open design studio. dont call me at weekend!
 [go to project](sounds like work/README.md)
