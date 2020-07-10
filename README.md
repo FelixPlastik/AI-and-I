@@ -48,7 +48,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 ## `things`&nbsp; for &nbsp;`datasets`    
 &nbsp; <br>    
-![tasse](/img/tasse-1-2.jpg)    
+![tasse](/img/thumb-objects.gif)    
 <br>   
 
 ## series of furnishing objects I made in a ping pong with object detection AI.   <br>   
