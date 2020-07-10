@@ -51,7 +51,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 ![tasse](/img/thumb-objects.gif)    
 <br>   
 
-## series of furnishing objects I made in a ping pong with object detection AI.   <br>   
+## series of furnishing objects I designed in a ping pong with object detection AI.   <br>   
 [go to project](detected-objects/README.md)   
 <br><br><br><br><br><br><br><br>
 
