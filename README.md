@@ -91,6 +91,6 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 <br>   
 
 ## assumptions about a wooden chair on a green field.   
-[go to project](word&nbsp;chair/README.md)
+[go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/word%20chair)
 
 <br><br><br><br><br><br><br>
