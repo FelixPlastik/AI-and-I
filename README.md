@@ -34,7 +34,7 @@ Sometimes it is me against AI and sometimes AI has to approve my design..There a
 
 <!---   P I Z Z A   --->
 
-## `P`i`Z`Z`A`&nbsp;&nbsp; e &nbsp;&nbsp;`G`U`S`T`O`
+## `P`i`z`Z`a`&nbsp;&nbsp; e &nbsp;&nbsp;`G`u`s`t`o`
 <img src="img/pizza.gif">  
 
 ## A dinner workshop in which AI took over the role of the untouchable pizzero. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
