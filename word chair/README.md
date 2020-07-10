@@ -3,7 +3,7 @@
 ### In `word chair` I used a technique called [Activation Atlas](https://distill.pub/2019/activation-atlas/). The problem with neuronal networks is that mostly they are black boxes to us, so we don't know whats going on inside. <br> For instance, if we take the image of a dog and put it in the network, it says: `100% dog`. We would agree with that, but we don't know what actually happened inside the black box that it says "this is a dog".   
 ### `Activation Atlas` reverse engineer the black box to better understand what neuronal networks "think" in certain parts of an image. So they ask: <br> What do you see in the first 10 x 10px?...in the second 10 x 10px?...and so on. 
 
-![a](img/out-1-2.jpg)   
+![a](img/out-1-3.jpg)   
 
 ### That creates a grid of assumptions. The assumptions are visualization + text predictions and look like this:  
 
