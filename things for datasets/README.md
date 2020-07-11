@@ -17,11 +17,10 @@
 ![a](img/venti.gif)   
 > bilder tisch   
 
-Based on the tests, I designed a series of furnishing objects. All of them are created in a ping pong with `object detection AI` but they differ in their relation to the AI.
+### Based on the tests, I designed a series of furnishing objects. All of them are created in a ping pong with `object detection AI` but they differ in their relation to the AI.
 
 ### `1. YOLO table` 
-### YOLO table (= *Y*ou *L*ook *O*nly *O*nce) is a table cover in the shape of a table. The cover can make any object a table. 
-<br>   
+### YOLO table (= *Y*ou *L*ook *O*nly *O*nce) is a table cover in the shape of a table. The cover can make any object a table.   
 ![a](img/table.gif)   
 
 <br><br><br>  
