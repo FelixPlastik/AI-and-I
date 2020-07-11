@@ -11,11 +11,15 @@
 
 ### `tests`
 ![a](img/tasse.gif)   
-<br><br>   
+<br> 
 ![a](img/kanne-gif-4.gif)   
-<br><br>   
+<br>
 ![a](img/venti.gif)   
-> bilder tisch   
+<br>
+![a](img/table-test.gif)   
+
+<br><br><br>  
+
 
 ### Based on the tests, I designed a series of furnishing objects. All of them are created in a ping pong with `object detection AI` but they differ in their relation to the AI.
 
