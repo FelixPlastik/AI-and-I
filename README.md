@@ -75,9 +75,9 @@ If you want to join with an experiment, want to leave a comment or find an issue
 ## `S`o`u`n`d`s &nbsp;&nbsp;`l`i`k`e &nbsp;&nbsp; `w`o`r`k 
 <img src="img/thumb-sound.jpg">  
 
-## Perfectly efficent AI trained on working sounds. The working sounds were performed by myself. suggesting the 24/7 open design studio. dont call me at weekend!
+## 24 hours generic working sounds ambient for a 24/7 design studio.
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/sounds%20like%20work)
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
