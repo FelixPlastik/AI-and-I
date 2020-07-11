@@ -15,7 +15,7 @@ There are several ways to perform a deepfake
 
 me as Obama on chatroulette.com
 
-I started collecting things with faces.
+I started collecting things with faces.  
 
 ### 
 
