@@ -15,12 +15,12 @@
 
 
 ### `image generation + selection` <br>`+ print`
-### The AI does not give 1 poster but a range of extrems of what it learned so I had to choose the poster, I also decided to screenprint it. Afterwards, I handed in the generated poster for the contest again. 
+### The AI does not give 1 poster but a range of extrems of what it learned so I had to choose the poster, I also decided to screenprint it. Afterwards, I handed in the poster for the contest. 
 
-x
-![a](img/arrow-down-2.jpg)   
+
+![a](img/arrow-down-3.jpg)   
 ![a](img/IMG_1021.jpg)   
-![a](img/arrow-down-2.jpg)   
+![a](img/arrow-down-3.jpg)   
 ![a](img/IMG_1076-2.jpg)
 
 
