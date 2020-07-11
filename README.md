@@ -63,7 +63,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 ## `face`to `see` place `to` be 
 <img src="img/thumb-fenster.jpg">  
 
-## We humans tend to see faces everywhere and we design faces in everything. I used harmful deepfake technique to make this dream come true for real.
+## We humans tend to see faces everywhere and we design faces in everything. I used AI deepfake to make this dream come true for real.
 [go to project](seeing-is-believing/README.md)
 <br><br><br><br><br><br><br><br>
 
