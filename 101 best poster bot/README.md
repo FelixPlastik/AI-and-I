@@ -18,7 +18,7 @@
 
 
 ### `image generation + selection + print`
-### Because the AI does not give me 1 poster but a range of eXtrems of what it learned, the process stays a ping pong and I had to choose the poster. I also decided to screenprint it. Afterwards I participated again with the generated poster. 
+### The creative process continues in a ping pong because the AI does not give 1 poster but a range of extrems of what it learned. I had to choose the poster, I also decided to screenprint it. Afterwards, I handed in the generated poster for the contest again. 
 
 
 ![a](img/IMG_1021.jpg)
