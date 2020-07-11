@@ -37,7 +37,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 ## `P`i`z`Z`a`&nbsp;&nbsp;&nbsp; e &nbsp;&nbsp;&nbsp;`G`u`s`t`o`
 <img src="img/pizza.gif">  
 
-## In a dinner workshop we set up an AI to be our pizza chef. <br> In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
+## Dinner workshop with a pizza-chef-AI. <br> In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/pizza%20e%20gusto)
 <br><br><br><br><br><br><br><br>
 
@@ -51,7 +51,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 ![tasse](/img/thumb-objects.gif)    
 <br>   
 
-## series of furnishing objects I designed in a ping pong with object detection AI.<br>   
+## Series of furnishing objects in a design ping-pong with object detection AI.<br>   
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/things%20for%20datasets)   
 <br><br><br><br><br><br><br><br>
 
@@ -90,7 +90,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 <img src="img/thumb-chair.gif">    
 <br>   
 
-## assumptions about a wooden chair on a green field.   
+## Assumptions about a wooden chair on a green field.   
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/word%20chair)
 
 <br><br><br><br><br><br><br>
