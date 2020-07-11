@@ -1,6 +1,6 @@
 ## `Wo`r`d` &nbsp; c`ha`i`r`
 
-### In `word chair` I used a technique called [Activation Atlas](https://distill.pub/2019/activation-atlas/). <br>The problem with neuronal networks is that they are mostly "black boxes, so we don't know what's going on inside. <br> For instance, if we take the image of a dog and put it in the network, it says: `100% dog`.<br>We would agree with that, but we don't know what actually happened inside the black box that it says `this is a dog`.   
+### For `word chair` I used a technique called [Activation Atlas](https://distill.pub/2019/activation-atlas/). The problem with neuronal networks is that they are mostly "black boxes, so we don't know what's going on inside. <br> For instance, if we take the image of a dog and put it in the network, it says: <br>`100% dog`.<br>We would agree with that, but we don't know what actually happened inside the black box that it says `this is a dog`.   
 <br><br>
 ![a](img/out-1-3.jpg)
 <br><br> 
@@ -10,7 +10,7 @@
 ![a](img/predictions.gif)   
 <br><br> 
 
-### I took "Activation Atlas" to make assumptions about a video of a chair on grass.<br>Each videoframe is split up into parts and gets analysed. Afterwards I took the highest predictions and turned them into a word map. <br><br>`1 frame = 71 x 15 row = 1065 cells` <br> `1065 cells x 247 frames = 263055 predictions`  
+### I used "Activation Atlas" to make assumptions about a video of a chair.<br>Each videoframe is split up into parts and gets analysed. Afterwards I took the highest predictions and turned them into a word map. <br><br>`1 frame = 71 x 15 rows <br>= 1065 cells` <br> `1065 cells x 247 frames <br>= 263055 predictions`  
 ![a](img/gif-stuhl-2.gif)   
 ![a](img/word-2.gif)   
 
