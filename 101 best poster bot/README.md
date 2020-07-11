@@ -9,8 +9,9 @@
 
 ### The AI i used to team up with is called `styleGAN`. It learns on its own ("unsupervised") without any classified data and "tries to make sense" of the images it gets, so to say.
 
-### training walkthrough
-> gif
+### walkthrough of what the AI learned after 3000 generations
+![a](img/poster-02.gif)
+
 
 ### image generation + selection + siebdruck
 > bild
