@@ -19,14 +19,14 @@
 ![a](img/pizza2txt-2.gif)
 
 <br><br>
-
+### `resume`   
 ### After the evening, I'd say that we still prefer human pizza before AI pizza but nevertheless we had some interesting conversations about the future of AI and the fields in which AI might lead to a more efficent automation like in mass industry food production, take aways and delivery.
 
 ![a](img/4_karton.jpg)
 
 <br>
 
-### resources   
+### `resources`   
 RunwayML download link: [https://runwayml.com/](https://runwayml.com/)      
 for the dow: 400g farina typo 00, 100g semola di grano duro rimacinata, hand of sea salt, a teaspoon olive oil, 10g yeast
 
