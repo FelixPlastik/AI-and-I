@@ -17,9 +17,8 @@
 <br><br><br>
 
 
-### image generation + selection + print
-### Because the AI does not give me 1 poster but a range of eXtrems of what it learned, the process stays a ping pong and I had to choose the poster. I also decided to screenprint it. 
-Afterwards I threw the poster in the contest again. 
+### `image generation + selection + print`
+### Because the AI does not give me 1 poster but a range of eXtrems of what it learned, the process stays a ping pong and I had to choose the poster. I also decided to screenprint it. Afterwards I participated again with the generated poster. 
 
 
 ![a](img/IMG_1021.jpg)
@@ -28,7 +27,7 @@ Afterwards I threw the poster in the contest again.
 ### My poster did not make it in the 100 best and I know why.<br>The `styleGAN` I used was:   
 ### 1. too random <br>2. the dataset is too small <br>3. posters are designed in layers like color, form, typography, humor, inspiration, personal style <br>4. my poster had no informational layer
 ### In the following I made a draft of how different AIs could be used together to really rebuild the creative process of designing a poster:
-> poster bot sketch
+> poster bot sketch   
 <br><br><br><br><br>
 
 
