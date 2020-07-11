@@ -7,7 +7,7 @@
 
 ### `Activation Atlas` reverse engineer the AI black box to better understand what neuronal networks "think" in certain parts of an image. So they ask:   
 ### `What do you see in the first 10x10 Pixels?` <br>`What do you see in the second 10x10 Pixels?`<br>`...and so on`. 
-<br> 
+<br>   
 ![a](img/predictions-2.gif)   
 <br><br> 
 
