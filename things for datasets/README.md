@@ -19,27 +19,29 @@
 ### `1. YOLO table` 
 ### (YOLO = you look only once, refers to the object detection AI called 'YOLO'. Because it looks only once on an object the detection works in realtime with 30fps.) <br> All things are split into categories, classes and sub-classes. I recognized that tables are a well trained class since a lot of things lay on tables and its basically in a lot of indoor sceneries. So how much does it take to be a table?
 <br>
-<br>
-![a](../img/table-1.jpg)  
-### The YOLO table is a cover in the shape of a table to cover objects to appear like a table  
-(for example a Mercedes table)  
-<br>
-<br>
-![b](../img/table-2.jpg)  
-### quick sketch of the cover
-<br>
-<br>
-![c](../img/table-3.jpg)
-### first tests (failing horribly but also funny)
-### it seems that color aswell as context of an object are important factors.
-
+![a](img/table.gif)   
 
 <br><br><br>  
+
+
 
 ### `2. 2D-3D cup`
 
 ![c](img/capri-gif.gif)
 
+<br><br><br>  
+
+
+
 ### `3. hair curtain` 
 
+![c](img/prediction-yolo-hair-1.jpg)
+
+
 <br><br><br>  
+
+
+### `resources` 
+Darknet YOLO (official website): [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)   
+code for yolo github: [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)   
+
