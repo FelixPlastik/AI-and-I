@@ -6,9 +6,8 @@
 <br><br> 
 
 ### `Activation Atlas` reverse engineer the AI black box to better understand what neuronal networks "think" in certain parts of an image. So they ask:   
-### `What do you see in the first 10x10 Pixels?` <br>`What do you see in the second 10x10 Pixels?`<br>`...and so on`. 
-<br>   
-![a](img/predictions-2.gif)   
+### `What do you see in the first 10x10 Pixels?` <br>`What do you see in the second 10x10 Pixels?`<br>`...and so on`.       
+![a](img/predictions-2.gif)    
 <br><br> 
 
 ### I used "Activation Atlas" to make assumptions about a video of a chair.<br>Each videoframe is split up into parts and gets analysed. Afterwards I took the highest predictions and turned them into a word map. <br><br>`1 frame = 71 x 15 rows` <br>`= 1065 cells` <br> `1065 cells x 247 frames` <br>`= 263055 predictions`  
