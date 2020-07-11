@@ -38,7 +38,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 <img src="img/pizza.gif">  
 
 ## dinner workshop
-## we setup an AI to be our pizza chef. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
+## we set up an AI to be our pizza chef. In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/pizza%20e%20gusto)
 <br><br><br><br><br><br><br><br>
 
