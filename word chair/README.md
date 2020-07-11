@@ -5,7 +5,7 @@
 ![a](img/out-1-3.jpg)
 <br><br> 
 
-### [Activation Atlas](https://distill.pub/2019/activation-atlas/) reverse engineer the AI black box to better understand what neuronal networks "think" in certain parts of an image. So they ask:   
+### [Activation Atlas](https://distill.pub/2019/activation-atlas/) is an open source project to reverse engineer the black box of AI to better understand what neuronal networks "think" in certain parts of an image. So they ask:   
 ### `What do you see in the first 10x10 Pixels?` <br>`What do you see in the second 10x10 Pixels?`<br>`...and so on`.       
 ![a](img/predictions-2.gif)    
 <br><br> 
