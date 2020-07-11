@@ -15,19 +15,18 @@
 We ate a lot of pizza but here are our most interesting outcomes:
 ### `wish2pizza`
 ![a](img/txt2pizza.gif)
-### `img2text2pizza`
-> pic
 ### `pizza2text`
 ![a](img/pizza2txt-2.gif)
 
 
+<br><br><br>
 
 
-### conclusion
 ![a](img/4_karton.jpg)
+
 
 ### resources   
 RunwayML download link: [https://runwayml.com/](https://runwayml.com/)     
-
+for the dow: 400g farina typo 00, 100g semola di grano duro rimacinata, hand of sea salt, a teaspoon olive oil, 10g yeast
 
 
