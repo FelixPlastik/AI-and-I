@@ -25,9 +25,9 @@
 ![a](img/IMG_1076-2.jpg)
 <br><br><br>
 ### `conclusion`
-### Sadly my poster did not make it in the 100 best. It seemed that lacked some parameters for judging a poster. <br>The `styleGAN` I used was:   
-### 1. too random <br>2. the dataset is too small <br>3. posters are designed in layers like color, form, typography, humor, inspiration, personal style <br>4. my poster had no informational layer (announcement to an event)
-### In the following I propose a draft of how different artificial intelligences could be used together to really replace the creative process of designing a poster:
+### Sadly my poster did not make it in the 100 best. It seemed that it lacked some parameters for judging it properly, for example the `styleGAN` I used was:   
+### 1. too random <br>2. dataset was too small <br>3. posters are designed in layers like color, form, typography, humor, inspiration, personal style <br>4. poster had no informational layer (announcement to an event)
+### In the following, I propose a draft of how different artificial intelligences could be used together to really replace the creative process of designing a poster:
 ![a](img/proposal-poster-bot.png)
 <br><br><br><br><br>
 
