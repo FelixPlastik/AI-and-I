@@ -11,8 +11,8 @@
 ### workflow:
 ### `human input` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `.....` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `output`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `Pizza`  
    
-<br><br><br>
-### We ate a lot of pizza but here are our most interesting outcomes:
+<br><br>
+### Here our most interesting outcomes:
 ### `wish2pizza`
 ![a](img/txt2pizza.gif)
 ### `pizza2text`
