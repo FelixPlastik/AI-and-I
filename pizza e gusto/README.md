@@ -14,7 +14,7 @@
 <br><br><br>
 We ate a lot of pizza but here are our most interesting outcomes:
 ### `wish2pizza`
-> pic
+![a](img/txt2pizza.gif)
 ### `img2text2pizza`
 > pic
 ### `pizza2text`
