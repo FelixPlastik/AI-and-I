@@ -9,9 +9,9 @@
 ### The AI i collaborated with is called `styleGAN`. It learns on its own ("unsupervised") without any classified data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters.   
 <br><br>
 
-### `walkthrough the AI`
+### `walkthrough the AI` <br> (after 5000 generations)
 ![a](img/poster-03.gif)    
-<br><br><br>
+<br><br><br><br><br>
 
 
 ### `image generation + selection` <br>`+ print`
