@@ -24,7 +24,7 @@ If you want to join with an experiment, want to leave a comment or find an issue
 ## `1`0`1`&nbsp;&nbsp;&nbsp; B`e`s`t`&nbsp;&nbsp;&nbsp;P`o`s`t`e`r`&nbsp;&nbsp;&nbsp;B`o`t
 <img src="img/thumb-poster.jpg">  
 
-## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best poster designs. Often, I don't have a poster but I want to win. So I built an AI-intern that learns from all winner posters and designs new ones.  
+## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best posters. Often, I don't have a poster but I want to win. So I built an AI-intern that learns from all winner posters and designs new ones.  
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/101%20best%20poster%20bot) 
 <br><br><br><br><br><br><br><br>
 
