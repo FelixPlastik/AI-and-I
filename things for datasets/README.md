@@ -1,6 +1,6 @@
 ### `T`h`i`n`g`s &nbsp;`f`o`r`&nbsp; d`a`t`a`s`e`t`s` 
 
-> intro pic
+![](https://pjreddie.com/media/image/Screen_Shot_2016-09-07_at_10.56.09_PM.png)
 
 ### `Object detection` is a type of AI that is able to recognise objects in images and videos. The use cases reach from surveillance cameras for monitoring people, machines for sorting out cucumbers to selfdriving cars that recognize cats on the street. 
 ### An interesting behaviour of `object detections` is that they recognise some things inccredibly good and some things they ignore completely. This comes from the fact that the training data still gets labeled by hand which causes faults and blind spots. For example, when the person who labels the data does not know cucumbers, the object detection will never recognise a cucumber as a cucumber (but perhaps as a tree). 
@@ -8,9 +8,10 @@
 ### I chose the 3 classes `person`, `cup` & `table` which are very well recognised and started playling around with them. <br> I was looking for the limits of recognizability, the in-betweens and the blind spots. The object recognition herefor served as a second perspective to prove or reject my designs.
 
 ### `tests`
-
-![](https://pyimagesearch.com/wp-content/uploads/2018/11/yolo_dl4cv.jpg)  
-![](https://pjreddie.com/media/image/Screen_Shot_2016-09-07_at_10.56.09_PM.png)
+> gif kanne
+> gif ventilator
+> bilder tisch
+> gif tasse
 
 
 ### `1. YOLO table` 
