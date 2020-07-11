@@ -12,16 +12,19 @@
 ### `human input` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `.....` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `output`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `Pizza`  
    
 <br><br><br>
-
-### `txt2pizza`
+We ate a lot of pizza but here are our most interesting outcomes:
+### `wish2pizza`
 > pic
 ### `img2text2pizza`
 > pic
-### `face2pizza`
+### `pizza2text`
 > pic
+
+
 
 ### conclusion
 
+< pic karton
 
 ### resources   
 RunwayML download link: [https://runwayml.com/](https://runwayml.com/)     
