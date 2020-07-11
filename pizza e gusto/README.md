@@ -6,10 +6,8 @@
 <br>   
 
 ### workflow:   
-
 <br>
-
-### `human input` > `AI layer 1`> `AI layer 2`> `x` > `output` > `Pizza`  
+### `human input` <br>><br> `AI layer 1`<br>><br> `AI layer 2`<br>><br> `x` <br>><br> `output`<br> ><br> `Pizza`  
    
 <br><br><br>
 
