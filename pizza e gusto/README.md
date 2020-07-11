@@ -18,14 +18,13 @@
 ### `pizza2text`
 ![a](img/pizza2txt-2.gif)
 
-
-<br><br><br>
-
-![a](img/4_karton.jpg)
+<br><br>
 
 ### After the evening, I'd say that we still prefer human pizza before AI pizza but nevertheless we had some interesting conversations about the future of AI and the fields in which AI might lead to a more efficent automation like in mass industry food production, take aways and delivery.
 
-<br><br>
+![a](img/4_karton.jpg)
+
+<br>
 
 ### resources   
 RunwayML download link: [https://runwayml.com/](https://runwayml.com/)      
