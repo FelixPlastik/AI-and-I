@@ -8,7 +8,7 @@
 ### I chose the 3 classes `person`, `cup` & `table` which are very well recognised and started playling around with them. <br> I was looking for the limits of recognizability, the in-betweens and the blind spots. The object recognition herefor served as a second perspective to prove or reject my designs.
 
 ### `tests`
-![a](../img/tasse.gif)  
+![a](img/tasse.gif)  
 
 > gif kanne
 > gif ventilator
