@@ -12,7 +12,7 @@
 ### `human input` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `.....` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `output`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `Pizza`  
    
 <br><br><br>
-We ate a lot of pizza but here are our most interesting outcomes:
+### We ate a lot of pizza but here are our most interesting outcomes:
 ### `wish2pizza`
 ![a](img/txt2pizza.gif)
 ### `pizza2text`
@@ -21,9 +21,11 @@ We ate a lot of pizza but here are our most interesting outcomes:
 
 <br><br><br>
 
-
 ![a](img/4_karton.jpg)
 
+### After the evening, I'd say that we still prefer human pizza before AI pizza but nevertheless we had some interesting conversations about the future of AI and the fields in which AI might lead to a more efficent automation like in mass industry food production, take aways and delivery.
+
+<br><br>
 
 ### resources   
 RunwayML download link: [https://runwayml.com/](https://runwayml.com/)      
