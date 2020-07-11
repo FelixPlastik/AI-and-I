@@ -24,6 +24,7 @@
 ![a](img/IMG_1021.jpg)
 ![a](img/IMG_1076-2.jpg)
 <br><br><br>
+### `conclusion`
 ### My poster did not make it in the 100 best and I know why.<br>The `styleGAN` I used was:   
 ### 1. too random <br>2. the dataset is too small <br>3. posters are designed in layers like color, form, typography, humor, inspiration, personal style <br>4. my poster had no informational layer
 ### In the following I made a draft of how different AIs could be used together to really rebuild the creative process of designing a poster:
@@ -31,6 +32,6 @@
 <br><br><br><br><br>
 
 
-### resources
+### `resources`
 runwayML download link (you can train a styleGAN there): [https://runwayml.com/](https://runwayml.com/)<br>
 styleGAN on github:[https://github.com/NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)
