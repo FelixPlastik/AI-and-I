@@ -1,11 +1,11 @@
 ## `Wo`r`d` &nbsp; c`ha`i`r`
 
-### For `word chair` I used a technique called [Activation Atlas](https://distill.pub/2019/activation-atlas/). The problem with neuronal networks is that they are mostly "black boxes, so we don't know what's going on inside. <br> For instance, if we take the image of a dog and put it in the network, it says: <br>`100% dog`.<br>We would agree with that, but we don't know what actually happened inside the black box that it says `this is a dog`.   
+### The problem with neuronal networks is that they are "black boxes" and we don't know what's going on inside. <br> For instance, if we take the image of a dog and put it in the network, it says: <br>`100% dog`.<br>We would agree with that, but we don't know what actually happened inside the black box that it says `this is a dog`.   
 <br><br>
 ![a](img/out-1-3.jpg)
 <br><br> 
 
-### `Activation Atlas` reverse engineer the AI black box to better understand what neuronal networks "think" in certain parts of an image. So they ask:   
+### [Activation Atlas](https://distill.pub/2019/activation-atlas/) reverse engineer the AI black box to better understand what neuronal networks "think" in certain parts of an image. So they ask:   
 ### `What do you see in the first 10x10 Pixels?` <br>`What do you see in the second 10x10 Pixels?`<br>`...and so on`.       
 ![a](img/predictions-2.gif)    
 <br><br> 
