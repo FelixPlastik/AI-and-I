@@ -2,6 +2,8 @@
 
 / home cheat home 
 
+![a](img/thumb-fenster.gif)
+
 ### Identity theft is a major issue in the use of artificial intelligence. Different AI can already imitate voice colors or writing styles. With so-called "deepfakes" faces can be mapped onto other bodies or faces can be made to say things that never happened.   
 ### When we look at design, we find that it is often based on face shapes. On the other hand we tend to recognize faces in everything.   
 ### In this experiment I wanted to take up these characteristics on the one hand and on the other hand use the technology that questions our perception of identity.   
