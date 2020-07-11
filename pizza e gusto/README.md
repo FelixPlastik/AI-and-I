@@ -26,7 +26,7 @@ We ate a lot of pizza but here are our most interesting outcomes:
 
 
 ### resources   
-RunwayML download link: [https://runwayml.com/](https://runwayml.com/)     
+RunwayML download link: [https://runwayml.com/](https://runwayml.com/)      
 for the dow: 400g farina typo 00, 100g semola di grano duro rimacinata, hand of sea salt, a teaspoon olive oil, 10g yeast
 
 
