@@ -9,8 +9,8 @@
 
 ### `tests`
 ![a](img/tasse.gif)   
+![a](img/kanne-gif-4.gif)   
 
-> gif kanne   
 > gif ventilator   
 > bilder tisch   
 
