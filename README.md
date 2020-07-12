@@ -1,11 +1,13 @@
 <!---   I N T R O   --->
 
-### `Ai` and `I`  
+## `Ai` and `I`  
 
-### a joint venture between Artificial Intelligence and me as a designer. Together we form a creative studio to explore new strategies and tools for design in a world of machine learning.
+> pic
+
+## a joint venture between Artificial Intelligence and me as a designer. Together we form a creative studio to explore new strategies and tools for design in a world of machine learning.
 
 
-Langer text:
+> Langer text:
 
 
 
@@ -16,9 +18,10 @@ The following respository shows a collection of design experiments all collabora
 The mode always changes, which means sometimes the AI is the designer, sometimes it is me.  
 Sometimes it is me against AI and sometimes AI has to approve my design..There are no limits!
 If you want to join with an experiment, want to leave a comment or find an issue: Feel free to add it in a pull request or [mail me](mailto:ciao@pl80.cc?subject=[GitHub]AI%20and%20I)   
-<br><br><br><br><br><br><br><br>
 -->
 
+
+<br><br><br><br><br><br><br><br>
 
 
 
