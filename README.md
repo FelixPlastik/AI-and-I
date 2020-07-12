@@ -13,11 +13,11 @@ While AI already influences how the digital world is shown to us, how we consume
    
 „AI and I“ is a simulated design studio between me as a designer and several artificial intelligences. In a daily work routine, we explore new strategies and tools to deal with this changing visual world. We take existing AIs and turn them upside down, we misuse them, we misunderstand them or we switch perspectives.   
 The aim of the experiment is to better understand how the technology works, how it can be used for design, how AI could change design itself and find answer to questions like:   
-How does it feel to be in a design collaboration with an artificial intelligence?   
-Which new perspectives emerge from it?   
-What will be our role as designers if every visual output can and will be used as dataset for machine learning?   
-Will we then only design for datasets instead for humans?   
-What responsibility do we have as designers when networks create 100% generated images?
+`How does it feel to be in a design collaboration with an artificial intelligence?`   
+`Which new perspectives emerge from it?`   
+`What will be our role as designers if every visual output can and will be used as dataset for machine learning?`   
+`W`i`l`l `we` t`h`e`n` o`nl`y `d`e`s`i`g`n `f`o`r` `d`a`t`a`s`e`t`s `i`n`s`t`e`a`d for humans?`   
+`What responsibility do we have as designers when networks create 100% generated images?`
 
 
 
