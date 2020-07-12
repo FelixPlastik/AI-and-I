@@ -6,9 +6,9 @@
    
    
 ## a joint venture between Artificial Intelligence and me as a designer. Together we form a creative studio to explore new strategies and tools for design in a world of machine learning.   
-#### The latest developments in the field of artificial intelligence (AI) have caused a huge hype in recent years. You either read only about the negative sides like deepfakes copying our identities, total surveillance, complete automation or only about the infinite possibilities like self driving cars or smart cities.   
-#### This technology is mainly made possible by the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next – What are they likely to vote for  – People who bought X were also interested in Y – or generating an artificial identity based on all the faces it learned.   
-#### While AI already influences how the digital world is shown to us, how we consume it and what we buy - our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
+The latest developments in the field of artificial intelligence (AI) have caused a huge hype in recent years. You either read only about the negative sides like deepfakes copying our identities, total surveillance, complete automation or only about the infinite possibilities like self driving cars or smart cities.   
+This technology is mainly made possible by the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next – What are they likely to vote for  – People who bought X were also interested in Y – or generating an artificial identity based on all the faces it learned.   
+While AI already influences how the digital world is shown to us, how we consume it and what we buy - our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
    
    
 „AI and I“ is a simulated design studio between me as a designer and several artificial intelligences. In a daily work routine, we explore new strategies and tools to deal with this changing visual world. We take existing AIs and turn them upside down, we misuse them, we misunderstand them or we switch perspectives.   
@@ -16,7 +16,7 @@ The aim of the experiment is to better understand how the technology works, how 
 `How does it feel to be in a design collaboration with an artificial intelligence?`   
 `Which new perspectives emerge from it?`   
 `What will be our role as designers if every visual output can and will be used as dataset for machine learning?`   
-`W`i`l`l &nbsp;&nbsp;`we`&nbsp;&nbsp; t`h`e`n` o`nl`y &nbsp;&nbsp;`d`e`s`i`g`n `f`o`r`&nbsp;&nbsp; `d`a`t`a`s`e`t`s &nbsp;&nbsp;`i`n`s`t`e`a`d for humans?`   
+**`W`i`l`l &nbsp;&nbsp;`we`&nbsp;&nbsp; t`h`e`n` o`nl`y &nbsp;&nbsp;`d`e`s`i`g`n `f`o`r`&nbsp;&nbsp; `d`a`t`a`s`e`t`s &nbsp;&nbsp;`i`n`s`t`e`a`d`&nbsp;&nbsp; f`o`r&nbsp;&nbsp; `h`u`m`a`n`s?**   
 `What responsibility do we have as designers when networks create 100% generated images?`
 
 
