@@ -11,12 +11,12 @@ This technology is mainly made possible by the large amounts of data we produce.
 While AI already influences how the digital world is shown to us, how we consume it and what we buy - our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
    
    
-„AI and I“ is a simulated design studio between me as a designer and several artificial intelligences. In a daily work routine, we explore new strategies and tools to deal with this changing visual world. We take existing AIs and turn them upside down, we misuse them, we misunderstand them or we switch perspectives.
-The aim of the experiment is to better understand how the technology works, how it can be used for design, how AI could change design itself and find answer to questions like:
-How does it feel to be in a design collaboration with an artificial intelligence?
-Which new perspectives emerge from it?
-What will be our role as designers if every visual output can and will be used as dataset for machine learning?
-Will we then only design for datasets instead for humans?
+„AI and I“ is a simulated design studio between me as a designer and several artificial intelligences. In a daily work routine, we explore new strategies and tools to deal with this changing visual world. We take existing AIs and turn them upside down, we misuse them, we misunderstand them or we switch perspectives.   
+The aim of the experiment is to better understand how the technology works, how it can be used for design, how AI could change design itself and find answer to questions like:   
+How does it feel to be in a design collaboration with an artificial intelligence?   
+Which new perspectives emerge from it?   
+What will be our role as designers if every visual output can and will be used as dataset for machine learning?   
+Will we then only design for datasets instead for humans?   
 What responsibility do we have as designers when networks create 100% generated images?
 
 
