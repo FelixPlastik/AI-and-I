@@ -19,7 +19,7 @@ The aim of the experiment is to better understand how the technology works, how 
 **`W`i`l`l &nbsp;&nbsp;`we`&nbsp;&nbsp; t`h`e`n` o`nl`y &nbsp;&nbsp;`d`e`s`i`g`n `f`o`r`&nbsp;&nbsp; `d`a`t`a`s`e`t`s &nbsp;&nbsp;`i`n`s`t`e`a`d`&nbsp;&nbsp; f`o`r&nbsp;&nbsp; `h`u`m`a`n`s?**   
 `What responsibility do we have as designers when networks create 100% generated images?`
 
-
+![a](img/quote_2.png)
 
 
 
