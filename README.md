@@ -16,7 +16,7 @@ The aim of the experiment is to better understand how the technology works, how 
 `How does it feel to be in a design collaboration with an artificial intelligence?`   
 `Which new perspectives emerge from it?`   
 `What will be our role as designers if every visual output can and will be used as dataset for machine learning?`   
-`W`i`l`l `we` t`h`e`n` o`nl`y `d`e`s`i`g`n `f`o`r` `d`a`t`a`s`e`t`s `i`n`s`t`e`a`d for humans?`   
+`W`i`l`l &nbsp;&nbsp;`we`&nbsp;&nbsp; t`h`e`n` o`nl`y &nbsp;&nbsp;`d`e`s`i`g`n `f`o`r`&nbsp;&nbsp; `d`a`t`a`s`e`t`s &nbsp;&nbsp;`i`n`s`t`e`a`d for humans?`   
 `What responsibility do we have as designers when networks create 100% generated images?`
 
 
