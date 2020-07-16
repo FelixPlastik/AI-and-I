@@ -6,9 +6,9 @@
 
 "*intro bild*"   
 
-The latest developments in the field of artificial intelligence (AI) have caused a huge hype in recent years. You either read about the negative sides like deepfakes copying our identities, the upcoming total surveillance, complete automation or you read about the positive side of infinite possibilities like self driving cars or smart cities.   
-This technology is mainly made possible by the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next – What are you likely to vote for  or you bought X so you're interested in Y.
-While AI already influences how the digital world is shown to us, how we consume it and what we buy - our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
+The latest developments in the field of artificial intelligence (AI) have caused a huge hype in recent years. The debate about AI is mostly black or white. Either you read about the negative sides like deepfakes copying our identities, the upcoming total surveillance, complete automation or you read about the positive side of infinite possibilities like self driving cars or smart cities.   
+The technology is mainly possible because of the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next? What are you likely to vote for? or: you bought X so you're interested in Y?
+While AI already influences how the digital world is shown to us and how we consume it – our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
       
 **`AI and I`** is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the  changing visual world of generated images. We take existing AIs, turn them upside down, misuse them, misunderstand them or we switch perspectives and look how AI sees design.   
 This experiment aims to better understand how AI works, how it can be used for design, how it could change design itself and find answer to questions like:   
@@ -29,7 +29,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 
 <!---   P O S T E R   --->
 
-## `1`0`1`&nbsp;&nbsp;&nbsp; B`e`s`t`&nbsp;&nbsp;&nbsp;P`o`s`t`e`r`&nbsp;&nbsp;&nbsp;B`o`t
+## `101`best `poster`bot
 <img src="img/thumb-poster.jpg">  
 
 ## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best posters. Often, I don't have a poster but I want to win. So I built an AI-intern that learns from all winner posters and designs new ones.  
@@ -42,7 +42,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 
 <!---   P I Z Z A   --->
 
-## `P`i`z`Z`a`&nbsp;&nbsp;&nbsp; e &nbsp;&nbsp;&nbsp;`G`u`s`t`o`
+## `Pizza` e `Gusto`
 <img src="img/pizza.gif">  
 
 ## Dinner workshop with a pizza-chef-AI. <br> In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
@@ -54,7 +54,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 
 <!---   O B J E K T E   --->
 
-## `things`&nbsp; for &nbsp;`datasets`    
+## `things` for `datasets`    
 &nbsp; <br>    
 ![tasse](/img/thumb-objects.gif)    
 <br>   
@@ -68,7 +68,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 
 <!---   F E N S T E R   --->
 
-## `face`to `see` place `to` be 
+## `place` to `be` 
 <img src="img/thumb-fenster.jpg">  
 
 ## We humans tend to see faces everywhere and we design faces in everything. I used AI deepfake to make this dream come true for real.
@@ -80,7 +80,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 
 <!---   S O U N D    --->
 
-## `S`o`u`n`d`s &nbsp;&nbsp;`l`i`k`e &nbsp;&nbsp; `w`o`r`k 
+## `Sounds` like `work` 
 <img src="img/thumb-sound.jpg">  
 
 ## 24 hours generic working sounds ambient for a 24/7 design studio.
@@ -92,7 +92,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 
 <!---   S T U H L   --->
 
-## w`o`r`d`&nbsp;&nbsp;&nbsp; c`h`a`i`r   
+## `word` chair   
 
 <br>
 <img src="img/thumb-chair.gif">    
