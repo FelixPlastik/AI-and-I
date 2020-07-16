@@ -1,19 +1,15 @@
-## `S`o`u`n`d`s &nbsp;&nbsp;`l`i`k`e &nbsp;&nbsp; `w`o`r`k 
+## `Sounds`like `work`
 
-### All streaming platforms (youtube, spotify, soundcloud, netflix,..) work with recommendations to provide us with the hottest tracks that perfectly match with our taste. With inputs like our `search history`,`listened history`,`gender`,`age`,`location`,`trending videos` and `new content` we as users constantly feed the AI algorythm which then predicts what we might want to listen to. <br><br> `perfect playlist` is the first pure AI playlist for the office. <br> By cutting out any "personalized" disturbances with a fresh youtube account and without any history, the AI is left alone and reveals a glimpse of how a "clean" AI makes recommendations when there is no personalization.
-<br>
-<br>  
+## With continous professionalization 
 
-get the
-### `> perfect playlist here <`
+The highly professionalized design studio is like a boutique and always need the right representation. Mostly its 3-4 people sitting around a table with their Macs in a clean studio while the Bialetti machine is glowing.
+AI naturally don't make any noise in its work. In order to create the perfect sound atmosphere for studio "AI and I", we consulted all the clean studio pictures of the Sagmeisters and Diez offices around the world. AI then took the pictures and interpreted the picture content in sounds. I then mixed this sound collection into a 24 hours studio ambient.
 
-![](youtube-recommendation-algorythm-overview.png)  
-overview, youtube recommendation algorythm ([source](https://towardsdatascience.com/using-deep-neural-networks-to-make-youtube-recommendations-dfc0a1a13d1e))
+![a](img/studio.gif)
 
-<br>
-<br>
-<br>
-
-*Note: A completely bias-free youtube account is impossible. Youtube accounts have to be connected to a Google account, which includes giving at least your age. You can specify your gender with "unspecified" but the algorythm is always optimized to a location. You can select a different language + location in youtube which changes the recommendations indeed. You can also use a VPN service to disguise your IP adress, but then it is connected to the location of the VPN server. So it will always be connected to a location if it is your own or a fake one.*
+## resources   
+Thanks to the following studios for feeding our dataset: Studio AI and I, Bureau Borsche, Konstantin Grcic, Double Standards, Sagmeister&Walsh, Johannes Erler, Mario Lombardo, Studio Stefan Diez, Nadine Göpfert, Deutsche und Japaner, Neri Oxman, new tendency, Erik Spiekermann, Pentagram, Sascha Lobe, Studio Uebele   
+image2sound transfer: [https://melobytes.com/en/](https://melobytes.com/en/)
 
 
+<!-- There is this highly mystifacted clichee of a professional design studio – a super clean room  -->
