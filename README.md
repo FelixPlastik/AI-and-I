@@ -10,8 +10,8 @@ The technology is mainly possible because of the large amounts of data we produc
 While AI already influences how the digital world is shown to us and how we consume it – our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
       
 **`AI and I`** is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the  changing visual world of generated images. We take existing AIs, turn them upside down, misuse them, misunderstand them or we switch perspectives and look how AI sees design.   
-This experiment aims to better understand how AI works, how it can be used for design, how it could change design itself and find answer to questions like:   
-## `How does it feel to be in a design collaboration with an artificial intelligence?`<br><br> `Which new perspectives emerge from it?`<br><br> `What will be our role as designers if every visual output can and will be used as dataset for machine learning?` <br><br> `Will we then only design for datasets instead for humans?`<br><br> `What will be our role when networks create 100% generated images?`
+This experiment aims to better understand how AI works, how it can be used for design, how it could change how we design and search answer to questions like:   
+## `How does it feel to be in a design collaboration with an artificial intelligence?`<br><br> `Which new perspectives emerge from it?`<br><br> `What will be our role as designers when every visual output can and will be used as dataset for machine learning?` <br><br> `For whom will we design then?`<br><br> `How will our job look like when networks create 100% generated images?`
    
 
 
@@ -49,8 +49,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 
 <!---   O B J E K T E   --->
 
-## `things` for `datasets`    
-&nbsp; <br>    
+## `things` for `datasets`   
 ![tasse](/img/thumb-objects.gif)    
 <br>   
 
