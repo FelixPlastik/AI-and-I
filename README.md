@@ -10,10 +10,10 @@ The latest developments in the field of artificial intelligence (AI) have caused
 This technology is mainly made possible by the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next – What are you likely to vote for  or you bought X so you're interested in Y.
 While AI already influences how the digital world is shown to us, how we consume it and what we buy - our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
       
-„AI and I“ is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the  changing visual world of generated images. We take existing AIs, turn them upside down, misuse them, misunderstand them or we switch perspectives and look how AI sees design.   
+**`AI and I`** is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the  changing visual world of generated images. We take existing AIs, turn them upside down, misuse them, misunderstand them or we switch perspectives and look how AI sees design.   
 This experiment aims to better understand how AI works, how it can be used for design, how it could change design itself and find answer to questions like:   
-**`How does it feel to be in a design collaboration with an artificial intelligence?`**      
-**`Which new perspectives emerge from it?`**   
+## **`How does it feel to be in a design collaboration with an artificial intelligence?`**      
+## **`Which new perspectives emerge from it?`**   
 **`What will be our role as designers if every visual output can and will be used as dataset for machine learning?`**   
 **`Will we then only design for datasets instead for humans?`**   
 **`What will be our role when networks create 100% generated images?`**   
