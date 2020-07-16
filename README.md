@@ -18,11 +18,11 @@ This experiment aims to better understand how AI works, how it can be used for d
 ## **`Will we then only design for datasets instead for humans?`**   
 ## **`What will be our role when networks create 100% generated images?`**   
    
-![a](img/quote_2.png)
 
 
 
 <br><br><br><br><br><br><br><br>
+
 
 
 
