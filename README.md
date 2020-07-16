@@ -14,9 +14,9 @@ While AI already influences how the digital world is shown to us and how we cons
 This experiment aims to better understand how AI works, how it can be used for design, how it could change design itself and find answer to questions like:   
 ## **`How does it feel to be in a design collaboration with an artificial intelligence?`**      
 ## **`Which new perspectives emerge from it?`**   
-**`What will be our role as designers if every visual output can and will be used as dataset for machine learning?`**   
-**`Will we then only design for datasets instead for humans?`**   
-**`What will be our role when networks create 100% generated images?`**   
+## **`What will be our role as designers if every visual output can and will be used as dataset for machine learning?`**   
+## **`Will we then only design for datasets instead for humans?`**   
+## **`What will be our role when networks create 100% generated images?`**   
    
 ![a](img/quote_2.png)
 
