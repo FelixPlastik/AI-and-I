@@ -6,9 +6,9 @@
 
 "*intro bild*"   
 
-The latest developments in the field of artificial intelligence (AI) have caused a huge hype in recent years. The debate about AI is mostly black or white. Either you read about the negative sides like deepfakes copying our identities, the upcoming total surveillance, complete automation or you read about the positive side of infinite possibilities like self driving cars or smart cities.   
-The technology is mainly possible because of the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next? What are you likely to vote for? or: you bought X so you're interested in Y?
-While AI already influences how the digital world is shown to us and how we consume it – our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
+### The latest developments in the field of artificial intelligence (AI) have caused a huge hype in recent years. The debate about AI is mostly black or white. Either you read about the negative sides like deepfakes copying our identities, the upcoming total surveillance, complete automation or you read about the positive side of infinite possibilities like self driving cars or smart cities.   
+#### The technology is mainly possible because of the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next? What are you likely to vote for? or: you bought X so you're interested in Y?
+#### While AI already influences how the digital world is shown to us and how we consume it – our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
       
 **`AI and I`** is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the  changing visual world of generated images. We take existing AIs, turn them upside down, misuse them, misunderstand them or we switch perspectives and look how AI sees design.   
 This experiment aims to better understand how AI works, how it can be used for design, how it could change design itself and find answer to questions like:   
