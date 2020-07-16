@@ -1,18 +1,20 @@
 <!---   I N T R O   --->
 
-## `Ai` and `I`  
-
+## `Ai` and `I`
+## Machines can see. Now what?   
+   
+   
 "intro bild"   
    
    
 ## a joint venture between Artificial Intelligence and me as a designer. Together we form a creative studio to explore new strategies and tools for design in a world of machine learning.   
-The latest developments in the field of artificial intelligence (AI) have caused a huge hype in recent years. You either read only about the negative sides like deepfakes copying our identities, total surveillance, complete automation or only about the infinite possibilities like self driving cars or smart cities.   
-This technology is mainly made possible by the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next – What are they likely to vote for  – People who bought X were also interested in Y – or generating an artificial identity based on all the faces it learned.   
+The latest developments in the field of artificial intelligence (AI) have caused a huge hype in recent years. You either read about the negative sides like deepfakes copying our identities, the upcoming total surveillance, complete automation or you read about the positive side of infinite possibilities like self driving cars or smart cities.   
+This technology is mainly made possible by the large amounts of data we produce. With this data, networks can be trained to recognize patterns and make decisions such as: Which song comes next – What are you likely to vote for  or you bought X so you're interested in Y.
 While AI already influences how the digital world is shown to us, how we consume it and what we buy - our design techniques remain untouched and the creative potential and visual challenges which will come with AI are left aside because creative jobs are called safe spaces which will not be replaced by AI.   
    
    
-„AI and I“ is a simulated design studio between me as a designer and several artificial intelligences. In a daily work routine, we explore new strategies and tools to deal with this changing visual world. We take existing AIs and turn them upside down, we misuse them, we misunderstand them or we switch perspectives.   
-The aim of the experiment is to better understand how the technology works, how it can be used for design, how AI could change design itself and find answer to questions like:   
+„AI and I“ is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the  changing visual world of generated images. We take existing AIs, turn them upside down, misuse them, misunderstand them or we switch perspectives and look how AI sees design.   
+This experiment aims to better understand how AI works, how it can be used for design, how it could change design itself and find answer to questions like:   
 `How does it feel to be in a design collaboration with an artificial intelligence?`   
 `Which new perspectives emerge from it?`   
 `What will be our role as designers if every visual output can and will be used as dataset for machine learning?`   
