@@ -1,6 +1,6 @@
 <!---   I N T R O   --->
 
-## `AI and I – &nbsp; Machines can see. Now what?`   
+## `AI and I – Machines can see. Now what?`   
 ## A joint venture between Artificial Intelligence and me as a designer. Together we form a creative studio to explore new strategies and tools for design in a world of machine learning.   
 
 "*intro bild*"   
