@@ -1,9 +1,9 @@
-## `101`&nbsp;&nbsp;b`e`s`t` &nbsp;&nbsp;<br>`p`o`s`t`e`r &nbsp;&nbsp; `b`o`t`
+## `101`best`poster`bot
 
 ![a](img/poster-archive-1.gif)
 
-### Training an AI to be a poster-design-bot needed a dataset. The contest [100 best posters](https://100-beste-plakate.de/) provide an archive with all of their winner posters – just hot design and a clean dataset with images of same size! perfect!
-### To download the whole archive, I used an image crawler (see `crawler.py` in the directory)
+## Training an AI to be a poster-design-bot needed a dataset. The contest [100 best posters](https://100-beste-plakate.de/) provide an archive with all of their winner posters – just hot design and a clean dataset with images of same size! perfect!
+## To download the whole archive, I used an image crawler (see `crawler.py` in the directory)
 
 
 ### The AI i collaborated with is called `styleGAN`. It learns on its own ("unsupervised") without any classified data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters.   
