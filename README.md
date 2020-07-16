@@ -41,10 +41,10 @@ This experiment aims to better understand how AI works, how it can be used for d
 
 <!---   P I Z Z A   --->
 
-## `Pizza` e `Gusto`
+## `(GAPN)` General `Adversarial` Pizza `Network`
 <img src="img/pizza.gif">  
 
-## Dinner workshop with a pizza-chef-AI. <br> In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
+## A dinner workshop with served by an AI pizza-chef. <br> In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/pizza%20e%20gusto)
 <br><br><br><br><br><br><br><br>
 
