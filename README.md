@@ -41,7 +41,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 <img src="img/pizza.gif">  
 
 ## A dinner workshop with served by an AI pizza-chef. <br> In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
-[go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/pizza%20e%20gusto)
+[go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/(GAPN)%20General%20Adversarial%20Pizza%20Network)
 <br><br><br><br><br><br><br><br>
 
 
@@ -77,7 +77,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 ## `Sounds` like `work` 
 <img src="img/thumb-sound.jpg">  
 
-## 24 hours generic working sounds ambient for a 24/7 design studio.
+## 24 hours generic working sounds ambient for a professional design studio.
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/sounds%20like%20work)
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
