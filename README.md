@@ -69,7 +69,7 @@ This experiment aims to better understand how AI works, how it can be used for d
 <!---   F E N S T E R   --->
 
 ## `place` to `be` 
-<img src="img/thumb-fenster-NEW.gif">  
+<img src="img/thumb-fenster-NEW.jpg">  
 
 ## We humans tend to see faces everywhere and we design faces in everything. I used AI deepfake to make this dream come true for real.
 [go to project](seeing-is-believing/README.md)
