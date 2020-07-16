@@ -20,7 +20,7 @@
 
 <br><br>
 ### `resume`   
-### After the evening, I'd say that we still prefer human pizza before AI pizza. <br> Nevertheless we had some interesting conversations about the future of AI and the fields in which AI might lead to a more efficent automation like in mass industry food production, take aways and delivery.
+### After the evening, I'd say that we still prefer human pizza before AI pizza. <br> Nevertheless we had some interesting conversations about the future of AI and the fields in which AI might lead to a more efficent automation like in mass industry food production, take aways and delivery. Here is a short recipe:
 
 ![a](img/4_karton.jpg)
 
