@@ -6,7 +6,7 @@ Training an AI to be a poster-design-bot needed a dataset. The contest [100 best
 To download the whole archive, I used an image crawler (see `crawler.py` in the directory)
 
 
-The AI i collaborated with is called `styleGAN`. It learns on its own ("unsupervised") without any classified data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters.   
+I collaborated with `styleGAN` an AI that learns on its own without any classified data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters for me!  
 <br><br>
 
 ## `walkthrough the AI` <br> (after 5000 generations)
@@ -14,7 +14,7 @@ The AI i collaborated with is called `styleGAN`. It learns on its own ("unsuperv
 <br><br><br><br><br>
 
 
-## `image generation + selection` <br>`+ print`
+## `image generation + selection + print`
 The AI does not give 1 poster but a range of extrems of what it learned so I had to choose the poster, I also decided to screenprint it. Afterwards, I handed in the poster for the contest. 
 
 
@@ -27,7 +27,7 @@ The AI does not give 1 poster but a range of extrems of what it learned so I had
 <br><br><br>
 
 
-## `conclusion`   
+## `results`   
 Sadly my poster did not make it in the 100 best. It seemed that it lacked some parameters for judging it properly. The problems of the bot are:   
 1. too random design <br>2. dataset is too small <br>3. posters are designed in layers like color, form, typography, humor, inspiration, personal style <br>4. poster had no informational layer (announcement to an event)
 In the following, I propose a draft of how different artificial intelligences could be used together, to really replace the creative process of designing a poster:
