@@ -3,10 +3,11 @@
 ![a](img/thumb-fenster.gif)
 
 
-### Identity theft is a major issue in the use of artificial intelligence. Different AI can already imitate voice colors or writing styles. With so-called "deepfakes" faces can be mapped onto other bodies or faces can be made to say things that never happened.   
-### When we look at design, we find that it is often based on face shapes. On the other hand we tend to recognize faces in everything.   
-### In this experiment I wanted to take up these characteristics on the one hand and on the other hand use the technology that questions our perception of identity.   
-I teamed up with a deepfake and digged deeper into what it means to perform someone else.
+### The safety of identity is a major issue in the use of artificial intelligence. There are AI which can imitate voices or writing styles. So-called "deepfakes" can capture faces and map them on other bodies to say and do things that never happened. Beside its scariness I thought    
+### When we take a look at design, we find that there are a lot of products are designed like faces like cars, hydrant, tools, toys,...   
+### With `place to be` I tried play with both, the design behaviour on the one hand and this technology that questions our perception of identity on the other hand. I turned 
+
+## `Some examples:`
 
 There are several ways to perform a deepfake
 1. training an AI
@@ -17,6 +18,3 @@ There are several ways to perform a deepfake
 me as Obama on chatroulette.com
 
 I started collecting things with faces.  
-
-### 
-
