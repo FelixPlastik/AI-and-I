@@ -1,6 +1,6 @@
 <!---   I N T R O   --->
 
-## `Ai and I` &nbsp;&nbsp; –<br> Machines can see. Now what?   
+## `Ai and I` &nbsp;&nbsp; – Machines can see. Now what?   
    
    
 "intro bild"   
