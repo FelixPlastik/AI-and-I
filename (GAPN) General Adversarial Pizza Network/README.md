@@ -8,8 +8,9 @@
 ![a](img/2_runway-2.png)   
 
 
-### `human input`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`AI layer 1`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`AI layer 2`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`.....` &nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp; `output`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`Pizza`  
-
+### `human input`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`AI layer 1`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`AI layer 2`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`.....` &nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp; `output`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`Pizza`   
+   
+<br><br><br><br>
 
 ### We chose different modes for each pizza:
 ### `wish2pizza` <br> 1. we write down our favorite pizza <br> 2. Text input gets interpreted into an image <br> 3. we reconfigure the image into a pizza 
