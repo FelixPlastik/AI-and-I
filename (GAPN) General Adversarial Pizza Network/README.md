@@ -8,7 +8,7 @@
 ![a](img/2_runway-2.png)   
 
 
-### `human input` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `.....` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `output`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `Pizza`  
+### `human input`&nbsp;&nbsp;>&nbsp;&nbsp;`AI layer 1`&nbsp;&nbsp;>&nbsp;&nbsp;`AI layer 2`&nbsp;&nbsp;>&nbsp;&nbsp;`.....` &nbsp;&nbsp;>&nbsp;&nbsp; `output`&nbsp;&nbsp;>&nbsp;&nbsp;`Pizza`  
 
 
 ### We chose different modes for each pizza:
