@@ -6,8 +6,7 @@
 
 ## `AI and I` is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the changing visual world of generated images. By taking existing AIs, turning them upside down, misusing them, misunderstanding them or switching perspectives, the design studio takes a look on how colaborating in a creative process with AI works. This experiment aims to better understand how this colaboration can take place and how it can be used for design, how it could change we design and search answers for questions like:   
 <br>
-<br>
-How does it feel to be in a design collaboration with an artificial intelligence?<br>Which new perspectives emerge from it?<br>What will be our role as designers when every visual output can and will be used as dataset for machine learning?<br>For whom will we design then?<br>How will our job look like when networks create 100% generated images?`
+## How does it feel to be in a design collaboration with an artificial intelligence?<br>Which new perspectives emerge from it?<br>What will be our role as designers when every visual output can and will be used as dataset for machine learning?<br>For whom will we design then?<br>How will our job look like when networks create 100% generated images?`
    
 
 
