@@ -20,10 +20,10 @@ kleiner im fliesstext
 
 <!---   P O S T E R   --->
 
-## `101`best `poster`bot
+## `101`best `posters`bot
 <img src="img/thumb-poster.jpg">  
 
-## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best posters. Often, I don't have a poster but I want to win. So I built an AI-intern that learns from all winner posters and designs new ones.  
+## Each year the contest [100-best-posters from Germany, Austria and Switzerland](http://100-beste-plakate.de/) asks for the best posters. Often, I don't have a poster but I want to win. So I built an AI-intern, that learns from all winner posters and designs new ones.  
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/101%20best%20poster%20bot) 
 <br><br><br><br><br><br><br><br>
 
