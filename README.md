@@ -61,7 +61,7 @@ kleiner im fliesstext
 ## `place` to `be` 
 <img src="img/thumb-fenster-NEW.jpg">  
 
-## We humans tend to see faces everywhere and we design faces in everything. I used AI deepfake to make this dream come true for real.
+## Humans tend to see faces everywhere and to design faces in everything unitentionally. I used AI deepfake to make this dream come true for real.
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/place%20to%20be)
 <br><br><br><br><br><br><br><br>
 
