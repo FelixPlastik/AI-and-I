@@ -7,9 +7,9 @@
 
 ![a](img/2_runway-2.png)   
 
-<br><br><br>
+<br>
 ### workflow:
-### `human input`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <br>`AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br>`AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <br>`.....`<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > <br>`output`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <br>`Pizza`   
+### `human input`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <br>`AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br>`AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <br>`.....`<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > <br>`Pizza`   
    
 <br><br><br><br><br><br><br>
 
