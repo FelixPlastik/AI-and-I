@@ -32,7 +32,7 @@
 
 <!---   P I Z Z A   --->
 
-## `(GAPN)` General `Adversarial` Pizza `Network`
+## `(GAPN)` General `Adversarial` Pizza `Network`   
 <img src="img/pizza.gif">  
 
 ## A dinner workshop by an AI pizza-chef. <br> Between pizza order and AI understanding, we explored how it might feel when your pizza gets interpreted through several machine learning layers.  
@@ -82,8 +82,6 @@
 <!---   S T U H L   --->
 
 ## `word` chair   
-
-<br>
 <img src="img/thumb-chair.gif">    
 <br>   
 
