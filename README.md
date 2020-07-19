@@ -34,7 +34,7 @@
 ## `(GAPN)` General `Adversarial` Pizza `Network`
 <img src="img/pizza.gif">  
 
-## A dinner workshop with served by an AI pizza-chef. <br> In a ping pong between pizza wish and AI understanding, we explored how it might feel when your pizza order gets interpreted through several machine learning layers.  
+## A dinner workshop by an AI pizza-chef. <br> Between pizza order and AI understanding, we explored how it might feel when your pizza gets interpreted through several machine learning layers.  
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/(GAPN)%20General%20Adversarial%20Pizza%20Network)
 <br><br><br><br><br><br><br><br>
 
@@ -47,7 +47,7 @@
 ![tasse](/img/thumb-objects.gif)    
 <br>   
 
-## Series of furnishing objects in a design ping-pong with object detection AI.<br>   
+## Series of home objects in a creative ping-pong with object detection AI.<br>   
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/things%20for%20datasets)   
 <br><br><br><br><br><br><br><br>
 
