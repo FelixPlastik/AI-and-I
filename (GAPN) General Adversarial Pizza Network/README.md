@@ -6,8 +6,8 @@
 ### We (AI & I) invited some friends to my place, everyone brought their favorite ingredients and AI & I provided the technical setup. <br>For the dinner we used `RunwayML`, an app that has several pre-trained AI you can use without being an AI expert. 
 
 ![a](img/2_runway-2.png)   
-
-<br>   
+   
+   
 ### workflow:   
 ### `human input`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <br>`AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br>`AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <br>`.....`<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > <br>`Pizza`   
    
