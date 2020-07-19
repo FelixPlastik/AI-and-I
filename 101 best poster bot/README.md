@@ -9,7 +9,7 @@ To download the whole archive, I used an image crawler (see `crawler.py` in the 
 I collaborated with `styleGAN`, an AI that learns on its own without any labeled data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters for us!  
 <br><br>
 
-## `walkthrough the AI` <br> (after 5000 training cycles)
+## `walkthrough the AI` <br> [after 5000 training cycles]
 ![a](img/poster-03.gif)    
 <br><br><br><br><br>
 
