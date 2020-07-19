@@ -12,10 +12,10 @@
    
 <br><br><br><br>
 
-### We chose different modes for each pizza:
+### We chose different modes for each pizza:   
 ### `wish2pizza` <br> 1. we write down our favorite pizza <br> 2. Text input gets interpreted into an image <br> 3. we reconfigure the image into a pizza 
 ![a](img/txt2pizza.gif)   
-   
+<br><br><br><br><br><br>   
 ### `pizza2text`   
 ### 1. styling pizzas like other things <br> 2. enforcing AI to generate text based on the thing it sees.
 ![a](img/3_pizza_making.jpg)
