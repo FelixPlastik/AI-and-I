@@ -2,20 +2,20 @@
 
 ![a](img/poster-archive-1.gif)
 
-Training an AI to be a poster-design-bot needed a dataset. The contest [100 best posters](https://100-beste-plakate.de/) provide an archive with all of their winner posters – just hot design and a clean dataset with images of same size! perfect!
-To download the whole archive, I used an image crawler (see `crawler.py` in the directory)
+To train to be a poster-design-bot you need a dataset. The contest [100 best posters](https://100-beste-plakate.de/) provides an archive with all of their winner posters – hot design and a clean dataset with images of same size! Perfect!
+To download the whole archive, I used an image crawler (see `crawler.py` in the directory).
 
 
-I collaborated with `styleGAN` an AI that learns on its own without any classified data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters for me!  
+I collaborated with `styleGAN`, an AI that learns on its own without any labeled data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters for us!  
 <br><br>
 
-## `walkthrough the AI` <br> (after 5000 generations)
+## `walkthrough the AI` <br> (after 5000 training cycles)
 ![a](img/poster-03.gif)    
 <br><br><br><br><br>
 
 
 ## `image generation + selection + print`
-The AI does not give 1 poster but a range of extrems of what it learned so I had to choose the poster, I also decided to screenprint it. Afterwards, I handed in the poster for the contest. 
+The AI does not provide 1 poster but a range of extremes of what it learned. So I had to choose the poster within this and decided to screenprint it. Afterwards, I handed in the poster for the contest. 
 
 
 ![a](img/arrow-down-3.jpg)   
