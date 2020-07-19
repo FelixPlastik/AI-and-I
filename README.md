@@ -1,10 +1,10 @@
 <!---   I N T R O   --->
 
 ## `AI and I – Machines can see. Now what?`   
-## Artificial intelligence (or AI) have caused a huge hype in recent years. Beside the artificial intelligences which we already use like Siri, personalized recommendations, autocorrect or chatbots, AI is becoming so good in learning and generating artificial images and videos that its getting harder to say what’s real and what is fake. 
+## Artificial intelligence (or AI) have caused a huge hype in recent years. Beside the artificial intelligences which we already use like Siri, personalized recommendations, auto-correction or chatbots, AI is becoming so good in learning and generating images and videos that its getting harder to say what’s real and what is fake. 
 ## Although AI is silently slipping into the domain of artists and designers and affecting how we see things, we keep our design techniques untouched and the creative potential and visual challenges which will come with AI are left aside.
 
-## `AI and I` is a simulation of a design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the changing visual world of generated images. We take existing AIs, turn them upside down, misuse them, misunderstand them or we switch perspectives and look how AI perceives design or not. This experiment aims to better understand how AI works, how it can be used for design, how it could change how we design and search answer to questions like:   
+## `AI and I` is a simulation of a design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the changing visual world of generated images. We take existing AIs, turn them upside down, misuse them, misunderstand them or we switch perspectives and look how AI perceives design or not. This experiment aims to better understand how AI works, how it can be used for design, how it could change how we design and search answers to questions like:   
 ## `How does it feel to be in a design collaboration with an artificial intelligence?`<br><br> `Which new perspectives emerge from it?`<br><br> `What will be our role as designers when every visual output can and will be used as dataset for machine learning?` <br><br> `For whom will we design then?`<br><br> `How will our job look like when networks create 100% generated images?`
    
 
