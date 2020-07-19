@@ -2,8 +2,8 @@
 
 ![a](img/1_pizza-is-god.jpg)
 
-### Idea of the workshop was to explore how it feels when an essential and human thing like food and dining is combined with machine learning.
-### We (AI & I) invited some friends to my place, everyone brought their favorite ingredients and AI & I provided the technical setup. <br>For the dinner we used `RunwayML`, an app that has several pre-trained AI you can use without being an AI expert. 
+### The idea of the workshop was to explore how it feels when an essential and human thing like food and dining is combined with machine learning.
+### We (AI & I) invited some friends to my place. Everyone brought their favorite ingredients and AI & I provided the technical setup. <br>For the dinner, we used `RunwayML`, an app that has several pre-trained AI which you can use without being an AI expert. 
 
 ![a](img/2_runway-2.png)   
    
@@ -15,13 +15,13 @@
 
 ### We chose different modes for each pizza:   
 ### `wish2pizza`   
-### 1. we write down our favorite pizza <br> 2. Text input gets interpreted into an image <br> 3. we reconfigure the image into a pizza 
+### 1. we write down our favorite pizza ingredients <br> 2. text input gets interpreted into an image <br> 3. we reconfigure the image into a physical pizza .
 ![a](img/txt2pizza.gif)   
 
 <br><br><br><br><br><br><br><br><br> 
 
 ### `pizza2text`   
-### 1. styling pizzas like other things <br> 2. enforcing AI to generate text based on the thing it sees.
+### 1. styling pizzas like objects <br> 2. enforcing AI to generate text based on the picture of th pizza.
 ![a](img/3_pizza_making.jpg)
 <br><br>
 ![a](img/pizza2txt-2.gif)
@@ -29,7 +29,7 @@
 
 <br><br>
 ### `resume`   
-### After the evening, I'd say that we still prefer human pizza before AI pizza. <br> Nevertheless we had some interesting conversations about the future of AI and the fields in which AI might lead to a more efficent automation like in mass industry food production, take aways and delivery. Here a short recipe:
+### After the evening, I'd say that humans still prefer human pizza over AI pizza. <br> Nevertheless we had interesting conversations about the future of AI and the fields in which AI might lead to a more efficent automation like in mass industry food production, take aways and delivery. Here a short recipe:
 
 ![a](img/4_karton.jpg)
 
