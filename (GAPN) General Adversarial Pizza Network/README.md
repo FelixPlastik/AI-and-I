@@ -10,7 +10,7 @@
 
 ### `human input`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`AI layer 1`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;<br>`AI layer 2`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`.....` &nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;<br>`output`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`Pizza`   
    
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ### We chose different modes for each pizza:   
 ### `wish2pizza`   
