@@ -8,7 +8,7 @@
 ![a](img/2_runway-2.png)   
 
 
-### `human input`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`AI layer 1`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;<br>`AI layer 2`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`.....`<br> &nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp; `output`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`Pizza`   
+### `human input`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`AI layer 1`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;<br>`AI layer 2`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`.....` &nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;<br>`output`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`Pizza`   
    
 <br><br><br><br>
 
