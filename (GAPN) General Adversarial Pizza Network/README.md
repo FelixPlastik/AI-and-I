@@ -2,21 +2,22 @@
 
 ![a](img/1_pizza-is-god.jpg)
 
-### Idea of the workshop was to explore how does it feel, when an essential and human thing like food and dining is combined with machine learning?!
-### We (AI & I) invited some friends to my place, everybody brought its favorite ingredients and we provided the technical setup. <br>For the dinner we used `RunwayML`, an app that has several pre-trained AI you can use instantly and without being an AI expert.   
+### Idea of the workshop was to explore how it feels when an essential and human thing like food and dining is combined with machine learning.
+### We (AI & I) invited some friends to my place, everybody brought their favorite ingredients and AI & I provided the technical setup. <br>For the dinner we used `RunwayML`, an app that has several pre-trained AI you can use without being an AI expert. 
 
 ![a](img/2_runway-2.png)   
 ![a](img/3_pizza_making.jpg)
 
-### our workflow:
-### `human input` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `.....` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `output`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `Pizza`  
+### We chose different modes for each pizza:
+### `wish2pizza` <br> 1. we write down our favorite pizza <br> 2. Text input gets interpreted into an image <br> 3. we reconfigure the image into a pizza 
+![a](img/txt2pizza.gif)   
    
-<br><br>
-### Here our most interesting outcomes:
-### `wish2pizza`
-![a](img/txt2pizza.gif)
 ### `pizza2text`
 ![a](img/pizza2txt-2.gif)
+   
+### workflow:
+### `human input` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 1`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `AI layer 2`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `.....` <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `output`<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;><br> `Pizza`  
+
 
 <br><br>
 ### `resume`   
