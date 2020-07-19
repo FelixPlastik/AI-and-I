@@ -7,6 +7,7 @@
 
 ![a](img/2_runway-2.png)   
 
+<br><br><br>
 
 ### `human input`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`AI layer 1`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;<br>`AI layer 2`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`.....` &nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;<br>`output`&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;`Pizza`   
    
