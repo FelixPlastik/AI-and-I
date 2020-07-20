@@ -27,7 +27,7 @@
 ### YOLO table (= *Y*ou *O*nly *L*ook *O*nce) is a table cover in the shape of a table. The cover can make any object a table.   
 ![a](img/table.gif)   
 
-<br><br><br>  
+<br><br><br><br><br><br>  
 
 
 
@@ -35,7 +35,7 @@
 ### For object detections a 2D representation of a cup is enough to be a cup. For humans a cup just makes sense if you can drink out of it. The 2D-3D cup is a compromise for both realities.
 ![c](img/capri-gif.gif)
 
-<br><br><br>  
+<br><br><br><br><br><br>  
 
 
 
@@ -44,7 +44,7 @@
 ![c](img/prediction-yolo-hair-1.jpg)
 
 
-<br><br><br>  
+<br><br><br><br><br><br>  
 
 
 ## `resources` 
