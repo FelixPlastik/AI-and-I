@@ -44,7 +44,7 @@
 ![c](img/prediction-yolo-hair-1.jpg)
 
 
-<br><br><br><br><br> 
+<br><br><br>
 
 
 ## `resources` 
