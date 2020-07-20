@@ -1,14 +1,14 @@
 <!---   I N T R O   --->
 
-## `AI and I` <br>`Machines can see.Now what?`   
+## `AI and I` <br>– `Machines can see. Now what?`   
 
 <!-- ![a](img/doku_cover_bild_04.jpg) -->
 
-Artificial intelligence (or AI) has caused a huge hype in recent years. Besides the artificial intelligences which we already use – like Siri, personalized recommendations, auto-correction or chatbots – AI is becoming so efficient in learning and generating images, videos, sounds and voices that it's getting harder to say what is real and what is fake.   
-Although AI is silently slipping into the domain of artists and designers and affecting how we see things, our design techniques are barely touched by it and the creative potential and visual challenges which will emerge with AI are left aside.
+## Artificial intelligence (or AI) has caused a huge hype in recent years. Besides the artificial intelligences which we already use – like Siri, personalized recommendations, auto-correction or chatbots – AI is becoming so efficient in learning and generating images, videos, sounds and voices that it's getting harder to say what is real and what is fake.   
+## Although AI is silently slipping into the domain of artists and designers and affecting how we see things, our design techniques are barely touched by it and the creative potential and visual challenges which will emerge with AI are left aside.
    
-`AI and I` is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the changing visual world of generated images. By taking existing AIs, turning them upside down, misusing them, misunderstanding them or switching perspectives, the design studio takes a look on how colaborating in a creative process with AI works. This experiment aims to better understand how a colaboration can take place and how it can be used for design, how it could change how we design and search answers for questions like:   
-*How does it feel to be in a design collaboration with an artificial intelligence?* &nbsp; *Which new perspectives emerge from it?* &nbsp; *What will be our role as designers when every visual output can and will be used as dataset for machine learning?* &nbsp; *For whom will we design then?*&nbsp;&nbsp; *How will our job look like when networks create 100% generated images?*
+## `AI and I` is a simulated design studio between me as a designer and artificial intelligence. In a daily work routine, we explore new strategies and tools to deal with the changing visual world of generated images. By taking existing AIs, turning them upside down, misusing them, misunderstanding them or switching perspectives, the design studio takes a look on how colaborating in a creative process with AI works. This experiment aims to better understand how a colaboration can take place and how it can be used for design, how it could change how we design and search answers for questions like:   
+## *How does it feel to be in a design collaboration with an artificial intelligence?* &nbsp; *Which new perspectives emerge from it?* &nbsp; *What will be our role as designers when every visual output can and will be used as dataset for machine learning?* &nbsp; *For whom will we design then?*&nbsp;&nbsp; *How will our job look like when networks create 100% generated images?*
    
 
 
