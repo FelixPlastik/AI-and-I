@@ -23,9 +23,9 @@
 
 ### `pizza2text`   
 ### 1. styling pizzas like objects <br> 2. enforcing AI to generate text based on the picture of th pizza.   
-<br><br><br><br><br><br>
-![a](img/pizza2txt-2.gif)
-   
+<br><br>
+![a](img/pizza2txt-2.gif)   
+<br><br><br><br>
 
 <br><br>
 ### `resume`   
