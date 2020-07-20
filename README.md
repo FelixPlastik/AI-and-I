@@ -1,6 +1,6 @@
 <!---   I N T R O   --->
 
-## `AI and I – Machines can see. Now what?`   
+## `AI and I` <br>Machines can see. Now what?`   
 
 <!-- ![a](img/doku_cover_bild_04.jpg) -->
 
