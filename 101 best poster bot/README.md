@@ -14,7 +14,7 @@
 <br><br><br><br><br>
 
 
-## `Image generation + selection + print`
+## `Image generation +` <br>`selection + print`
 ### The AI does not provide 1 poster but a range of extremes of what it learned. So I had to choose the poster within this and decided to screenprint it. Afterwards, I handed in the poster for the contest. 
 
 
