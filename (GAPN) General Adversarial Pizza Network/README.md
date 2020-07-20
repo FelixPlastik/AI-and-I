@@ -14,6 +14,7 @@
 <br><br><br><br><br><br><br>
 
 ### We chose different modes for each pizza:   
+<br><br><br>
 ### `wish2pizza`   
 ### 1. we write down our favorite pizza ingredients <br> 2. text input gets interpreted into an image <br> 3. we reconfigure the image into a physical pizza .
 ![a](img/txt2pizza2.gif)   
