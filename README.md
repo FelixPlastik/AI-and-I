@@ -37,7 +37,7 @@
 ## `(GAPN)` General `Adversarial` Pizza `Network`   
 <img src="img/pizza.gif">  
 
-## A dinner workshop by an AI pizza-chef. <br> Between pizza order and AI understanding, we explored how it might feel when your pizza gets interpreted through several machine learning layers.  
+## A dinner workshop by an AI pizza-chef. Between pizza order and AI understanding, we explored how it might feel when your pizza gets interpreted through several machine learning layers.  
 [go to project](https://github.com/FelixPlastik/AI-and-I/tree/master/(GAPN)%20General%20Adversarial%20Pizza%20Network)
 <br><br><br><br><br><br><br><br>
 
