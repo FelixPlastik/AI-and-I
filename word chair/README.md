@@ -1,6 +1,6 @@
 ## Word `chair`
 
-### The problem with neuronal networks is that they are "black boxes" and we don't know what's going on inside. <br> For instance, if we take the image of a dog and put it in the network, it says: <br>`100% dog`.<br>We would agree with that. But we don't know what actually happened inside the black box that leads to the AI's conclusion that `this is a dog`.   
+### The problem with neuronal networks is that they are "black boxes" and we don't know what's going on inside. <br> For instance, if we take the image of a dog and put it in the network, it says:`100% dog`.<br>We would agree with that. But we don't know what actually happened inside the black box that leads to the AI's conclusion that `this is a dog`.   
 <br><br>
 ![a](img/out-1-3.jpg)
 <br><br> 
