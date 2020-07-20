@@ -15,27 +15,27 @@
 
 ### We chose different modes for each pizza:   
 <br><br><br>
-### `wish2pizza`   
+## `wish2pizza`   
 ### 1. we write down our favorite pizza ingredients <br> 2. text input gets interpreted into an image <br> 3. we reconfigure the image into a physical pizza .
 ![a](img/txt2pizza2.gif)   
 
 <br><br><br><br><br><br><br><br><br> 
 
-### `pizza2text`   
-### 1. styling pizzas like objects <br> 2. enforcing AI to generate text based on the picture of th pizza.   
+## `pizza2text`   
+## 1. styling pizzas like objects <br> 2. enforcing AI to generate text based on the picture of th pizza.   
 <br><br>
 ![a](img/pizza2txt-2.gif)   
 <br><br><br><br>
 
 <br><br>
-### `resume`   
+## `resume`   
 ### After the evening, I'd say that humans still prefer human pizza over AI pizza. <br> Nevertheless we had interesting conversations about the future of AI and the fields in which AI might lead to a more efficent automation like in mass industry food production, take aways and delivery. Here a short recipe:
 
 ![a](img/4_karton.jpg)
 
 <br>
 
-### `resources`   
+## `resources`   
 RunwayML download link: [https://runwayml.com/](https://runwayml.com/)      
 for the dow: 400g farina typo 00, 100g semola di grano duro rimacinata, hand of sea salt, a teaspoon olive oil, 10g yeast
 
