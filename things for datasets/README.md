@@ -1,4 +1,4 @@
-## `T`h`i`n`g`s &nbsp;`f`o`r`&nbsp; d`a`t`a`s`e`t`s` 
+## `Things` for `datasets` 
 
 ![](https://pjreddie.com/media/image/Screen_Shot_2016-09-07_at_10.56.09_PM.png)
 
