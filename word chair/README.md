@@ -1,4 +1,4 @@
-## `Wo`r`d` &nbsp; c`ha`i`r`
+## Word `chair`
 
 ### The problem with neuronal networks is that they are "black boxes" and we don't know what's going on inside. <br> For instance, if we take the image of a dog and put it in the network, it says: <br>`100% dog`.<br>We would agree with that. But we don't know what actually happened inside the black box that leads to the AI's conclusion that `this is a dog`.   
 <br><br>
@@ -24,7 +24,7 @@
 <br>
 
 
-### resources   
+## resources   
 Full overview of Activation Atlas: [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)     
 Activation atlas on github: [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid)   
 Overview of all ImageNet classes: [https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) ; [http://image-net.org/explore.php](http://image-net.org/explore.php)   
