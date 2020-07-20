@@ -1,4 +1,4 @@
-### `(GAPN)` General `Adversarial` Pizza `Network`   
+## `(GAPN)` General `Adversarial` Pizza `Network`   
 
 ![a](img/1_pizza-is-god.jpg)
 
