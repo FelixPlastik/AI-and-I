@@ -3,7 +3,7 @@
 ## `AI and I` <br>– `Machines can see. Now what?`   
 
 <!-- ![a](img/doku_cover_bild_04.jpg) -->
-![a](img/)
+![a](img/cover_img_S.jpg)
 
 ## Artificial intelligence (or AI) has caused a huge hype in recent years. Besides the artificial intelligences which we already use – like Siri, personalized recommendations, auto-correction or chatbots – AI is becoming so efficient in learning and generating images, videos, sounds and voices that it's getting harder to say what is real and what is fake.   
 ## Although AI is silently slipping into the domain of artists and designers and affecting how we see things, our design techniques are barely touched by it and the creative potential and visual challenges which will emerge with AI are left aside.
