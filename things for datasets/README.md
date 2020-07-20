@@ -23,7 +23,7 @@
 
 ### Based on the tests, I designed a series of furnishing objects. All of them are created in a ping pong with `object detection AI` but they differ in their relation to the AI.
 
-## `1. YOLO table` 
+## 1. `YOLO table` 
 ### YOLO table (= *Y*ou *O*nly *L*ook *O*nce) is a table cover in the shape of a table. The cover can make any object a table.   
 ![a](img/table.gif)   
 
@@ -31,7 +31,7 @@
 
 
 
-## `2. 2D-3D cup`
+## 2. `2D-3D cup`
 ### For object detections a 2D representation of a cup is enough to be a cup. For humans a cup just makes sense if you can drink out of it. The 2D-3D cup is a compromise for both realities.
 ![c](img/capri-gif.gif)
 
@@ -39,7 +39,7 @@
 
 
 
-## `3. hair curtain` 
+## 3. `hair curtain` 
 ### Hairs seem to be a strong feature for the recognition of humans. The hair curtain is the ultimate humanizer.
 ![c](img/prediction-yolo-hair-1.jpg)
 
