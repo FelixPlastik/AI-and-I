@@ -2,11 +2,11 @@
 
 ![a](img/poster-archive-1.gif)
 
-### To train a poster-design-bot you need a dataset. The contest [100 best posters](https://100-beste-plakate.de/) provides an archive with all of their winner posters – hot design and a clean dataset with images of same size! Perfect!
-### To download the whole archive, I used an image crawler (see `crawler.py` in the directory).
+To train a poster-design-bot you need a dataset. The contest [100 best posters](https://100-beste-plakate.de/) provides an archive with all of their winner posters – hot design and a clean dataset with images of same size! Perfect!
+To download the whole archive, I used an image crawler (see `crawler.py` in the directory).
 
 
-### I collaborated with `styleGAN`, an AI that learns on its own without any labeled data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters for us!  
+I collaborated with `styleGAN`, an AI that learns on its own without any labeled data and tries to recognise patterns in the posters. Afterwards it can use these learned patterns to design new posters for us!  
 <br><br>
 
 ### `walkthrough the AI` <br> [after 5000 training cycles]
