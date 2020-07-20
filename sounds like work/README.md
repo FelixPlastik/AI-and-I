@@ -6,7 +6,7 @@
 ![a](img/studio3.gif)
 
 ### `resources`   
-Thanks to the following studios for feeding our dataset: <br>Studio AI and I, Bureau Borsche, Konstantin Grcic, Double Standards, Sagmeister&Walsh, Johannes Erler, Mario Lombardo, Studio Stefan Diez, Nadine Göpfert, Deutsche und Japaner, Neri Oxman, new tendency, Erik Spiekermann, Pentagram, Sascha Lobe, Studio Uebele   
+Thanks to the following studios for feeding our dataset:<br> <br>Studio AI and I, Bureau Borsche, Konstantin Grcic, Double Standards, Sagmeister&Walsh, Johannes Erler, Mario Lombardo, Studio Stefan Diez, Nadine Göpfert, Deutsche und Japaner, Neri Oxman, new tendency, Erik Spiekermann, Pentagram, Sascha Lobe, Studio Uebele <br>   
 image2sound transfer: [https://melobytes.com/en/](https://melobytes.com/en/)
 
 
