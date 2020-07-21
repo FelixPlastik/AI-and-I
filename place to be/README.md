@@ -1,6 +1,6 @@
 ## `place`to `be`
 
-![a](img/thumb-fenster.gif)
+![a](img/schwarzi.gif)
 
 
 ## Stealing identities is a major issue in the use of artificial intelligence. There are AI which can imitate voices or writing styles. So-called "deepfakes" can capture faces and map them on other bodies to say and do things that didn't happen. Beside its scariness I thought    
